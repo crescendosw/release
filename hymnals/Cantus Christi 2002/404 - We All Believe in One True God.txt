@@ -1,0 +1,85 @@
+title      We All Believe in One True God
+hymnal     Cantus Christi
+page       404
+author     Martin Luther, 1524
+translator composite
+music      https://www.christkirk.com/wp-content/uploads/2018/10/We-All-Believe-in-One-True-God.pdf
+see_also   Cantus Christi 2020: 710
+
+tune       WIR GLAUBEN ALL AN EINEN GOTT
+metre      8s. 10 lines
+composer   Latin Credo, c. 1300
+composer   Johann Walter, Geystliche gesangk Buchleyn, 1524
+key        C
+rhythm     0 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 a - g - a - e - f/2 e - g   f e d- c- d-/1 | a/2 a/2 d c
+alto       d/2  a+ - g - a+ - e - f/2 e - g   f e d  c  d/1  | f/2 e/2 g e
+tenor      d-/2 a - g - a - e - f/2 e - g   f e d- c- d-/1 | d/2 c/2 b g
+bass       d/2  a+ - g - a+ - e - f/2 e - g f e d  c  d/1  | d/2 a/2 b c
+
+soprano    b  a c/2 a | b c a a e  f f e/2
+alto       d  d e/2 c | d e c d c  c d c#/2
+tenor      g  f g/2 a | f g f f a  a a a/2
+bass       g- d c/2 f | d c f d a+ f d a/2
+
+soprano    d- e f  g  f e d- - c- d-/1 | d/2 d/2 e+ d
+alto       a  c d  d  c c a/2     a/1  | f/2 g/2 g  g
+tenor      f  g bb bb a g f - e   f/1  | a/2 b/2 c  b
+bass       d  c bb g- a c d - a   d/1  | d/2 g/2 c  g
+
+soprano    e+ c d/2  d/2 | e+ b c a a e f/2           e/2
+alto       g  e f#/2 g/2 | g  e e f c c a - d         c#/2
+tenor      b  a a/2  b/2 | c  g a f a g f/8 - g/8 - a a/2
+bass       e  a d/2  g/2 | c  e a d f c d/2           a/2
+
+soprano    a  g a  b c  b  a - g a/2 | b. - c/8 d/2 a  g
+alto       e  e e  g g  g  e/2   e/2 | g/2      f/2 f  e
+tenor      c  b c  d e+ d  c - b c/2 | e+/2     a/2 c  c
+bass       a+ e a+ g c  g- a - e a/2 | e/2      d/2 f- c
+
+soprano    a e f/2 e | g  a. - e/8 - d- c- d- - f d-/2 | f - g a - b
+alto       c c/2 b c | d  c/2 - a       a  a - c  bb/2 | a - c c - f
+tenor      a g f/2 g | b  a - g - f     e  f - a  f/2  | f - e f/2
+bass       f c d/2 c | g- a - c - d     a  d - a  bb/2 | d - c f - d
+
+soprano    c. - b/8 - a. - g/8 - f - e - d- | e f  g  f e d- c- d-/1
+alto       e - d - e/2 - c/2 - a            | c d  d  c c a  a  a/1
+tenor      a - b - c - b - a - g - f        | g bb bb a g f  e  f/1
+bass       a/2. - e - f - c - d             | c bb g- a c d  a  d/1
+
+verse      We all be -  lieve in  one  true God,   Who cre - a  -  ted
+verse      We all be -  lieve in  Je - sus  Christ His own   Son,  our
+verse      We all con - fess  the Ho - ly   Ghost, Who sweet grace and
+
+verse      earth and   heav - en, The Fa - ther, Who   to    us      in  love
+verse      Lord, pos - sess - ing An  e -  qual  God - head, throne, and might,
+verse      com - fort  giv -  eth And with the   Fa -  ther  and     the Son
+
+verse      Hath   the right of  chil - dren giv  -  en;  He   both soul    and
+verse      Source of  ev -  'ry grace  and  bless - ing; Born of   Mar  -  y,
+verse      In     e - ter - nal glo -  ry   liv  -  eth; Who  the  Church, His
+
+verse      bod - y      feed - eth,  All   we   need  He   doth pro - vide   us;
+verse      vir - gin    moth - er,   By    the  pow - er   of   the   Spir - it,
+verse      own   cre -  a   -  tion, Keeps in   un -  i -  ty   of    spir - it.
+
+verse      He   through snares and  per - ils   lead -  eth, Watch - ing that no
+verse      Word made    flesh, our  eld - er    Broth - er;  That    the lost might
+verse      Here for  -  give - ness and   sal - va  -   tion Dai  -  ly  come through
+
+verse      harm be - tide  us;  He  car - eth   for   us  day   and
+verse      life in - her - it,  Was cru - ci -  fied  for sin - ful
+verse      Je - sus' mer - it.  All flesh shall rise, and we    shall
+
+verse      night; All things are  gov - erned by    His   might.
+verse      men    And raised by   God   to    life  a  -  gain.
+verse      be     In  bliss  with God   e  -  ter - nal - ly.

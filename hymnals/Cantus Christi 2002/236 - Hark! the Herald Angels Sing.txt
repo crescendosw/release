@@ -1,0 +1,75 @@
+title      Hark! the Herald Angels Sing
+hymnal     Cantus Christi
+page       236
+author     Charles Wesley, 1739; alt
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Hark-the-Herald-Angels-Sing.pdf
+see_also   Cantus Christi 2020: 572
+
+tune       MENDELSSOHN
+metre      7 7 7 7. 7 7 7 7. 7 7
+composer   Felix Mendelssohn, 1840
+harmony    William Hayman Cummings, 1855
+key        F
+rhythm     4 : 4
+tempo      120
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c- f f. e/8 | f a  a g | c c c. b/8 | a g a/2
+alto       c  c c. c/8 | c f  f e | f e d  g   | f e f/2
+tenor      a  a a. g/8 | f c  c/2 | c c d  d   | c c c/2
+bass       f  f f  c   | a f- c/2 | a a b  b   | c c f/2
+
+soprano    c- f f. e/8 | f a a   g    | c g  g. e/8 | e  d- c-/2
+alto       c  c c. c/8 | a f f/2      | e d  e. c/8 | c  bn c/2
+tenor      a  a a. g/8 | f c d/2      | c d  c. g/8 | a  f  e/2
+bass       f  f f  c   | d c bn. g-/8 | a bn c  e-  | f- g- c/2
+#4th note of 3rd measure and the 1st note of 4th measure, on the bass, has a duplicate an octave higher
+
+soprano    c  c  c  f  | b a a g | c  c  c  f  | b a a g
+alto       c  c  c  f  | g f f e | c  c  c  f  | g f f e
+tenor      c  c  c  c  | c c c/2 | c  c  c  c  | c c c/2
+bass       c+ c+ c+ a+ | e f c/2 | c+ c+ c+ a+ | e f c/2
+
+soprano    d  d  d  c  | b a  b/2 | g  a/8 b/8 c. f/8 | f g a/2
+alto       b+ b+ b+ a+ | g f# g/2 | e  e       f. c/8 | c e f/2
+tenor      d  d  d  d  | d c  b/2 | c  c       c. a/8 | a c c/2
+bass       b  b  b  b  | b d  g/2 | b+ b+      a+ f   | c c f/2
+#last note on the bass has a duplicate an octave lower
+
+soprano    d.  d/8  d  c  | b a  b/2  | g a/8 b/8 c. f/8 | f g f/2
+alto       b+. b+/8 b+ a+ | g f# g/2  | c e       f. c/8 | c c c/2
+tenor      d.  d/8  d  c  | b a  b/2  | c c       c. a/8 | a b a/2
+bass       b+. b+/8 b+ a+ | g f# g fn | e b+      a+ f   | c c f/2
+#last note on the bass has a duplicate an octave lower
+
+verse      Hark!   the  her   -  ald   an  -  gels   sing,   Glo  -  ry    to   the  new  -  born   King:
+verse      Christ, by   high  -  est   heav'n a   -  dored,  Christ, the   ev - er - last -  ing    Lord,
+verse      Come,   De - sire     of    na  -  tions, come,   Fix     in    us   Thy  hum  -  ble    home;
+verse      Ad  -   am's like  -  ness, Lord,  ef  -  face,   Stamp   Thine im - age  in      its    place:
+verse      Hail    the  heav'n - born  Prince of     Peace!  Hail    the   Sun  of   Right - eous - ness!
+
+verse      Peace on  earth, and  mer - cy      mild,   God    and    sin -  ners re -  con -  ciled!
+verse      Late  in  time   be - hold  Him     come,   Off -  spring of     the  Vir - gin's  womb:
+verse      Rise, the wom -  an's con - qu'ring Seed,   Bruise in     us     the  ser - pent's head.
+verse      Sec - ond Ad  -  am   from  a   -   bove,   Re  -  in  -  state  us   in    Thy    love.
+verse      Light and life   to   all   He      brings, Ris'n  with   heal - ing  in    His    wings.
+
+verse      Joy -  ful,  all   ye     na -  tions, rise,  Join  the     tri - umph of   the  skies;
+verse      Veiled in    flesh the    God - head   see;   Hail  th'in - car - nate De - i -  ty,
+verse      Now    dis - play  Thy    sav - ing    pow'r, Ru -  ined    na -  ture now  re - store;
+verse      Let    us    Thee, though lost, re  -  gain,  Thee, the     Life, the  in - ner  man:
+verse      Mild   He    lays  His    glo - ry     by,    Born  that    man   no   more may  die,
+
+verse      With    th'an - gel - ic    host pro - claim, Christ is   born  in   Beth - le - hem!
+verse      Pleased as      men   with  men  to    dwell, Je  -  sus, our   Em - man -  u -  el.
+verse      Now     in      mys - tic   un - ion   join   Thine  to   ours, and  ours   to   Thine.
+verse      O,      to      all   Thy - self im -  part,  Formed in   each  be - liev - ing  heart.
+verse      Born    to      raise the   sons of    earth, Born   to   give  them sec -  ond  birth.
+
+verse      Hark! the her - ald an - gels sing, Glo - ry to the new - born King!

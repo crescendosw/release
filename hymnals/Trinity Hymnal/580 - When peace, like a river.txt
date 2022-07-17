@@ -1,0 +1,36 @@
+title     When peace, like a river
+hymnal    Trinity Hymnal
+page      580
+key       Db
+rhythm    4 : 4
+tempo     120
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a | a/2 g f       | f/2  e f | g - b a g | f/2.
+alto       f | f/2 e d       | d/2  c d | c/2   c e | d/2.
+tenor      a | a/2 a a       | a/2  a a | a/2   a a | a/2.
+bass       d | d/2 d d/8 f/8 | a+/2 g f | e/2   a a | d/2.
+
+soprano    a | d/2 c  b | b/2 a gn | a/2. a  | d/2 d c
+alto       f | f/2 e  d | f/2 e e  | e/2. gb | f/2 f a+
+tenor      a | b/2 an b | d/2 c b  | c/2. c  | d/2 d d
+bass       d | b/2 c  d | d/2 e e  | a/2. a+ | d/2 d f
+
+soprano    b/2 b  b  | e+/2 e+ d  | c/2   b  a        | d/2  d d
+alto       g/2 b+ a+ | g/2  g  gn | a+/2  a+ a+       | a+/2 d e
+tenor      d/2 d  dn | e+/2 e+ e+ | e+/2  d  c        | d/2  a b
+bass       g/2 g  f  | e/2  e  e  | a+/2  a+ a+/8 g/8 | f/2  f g
+
+soprano    d/2  c. d/8 | d/2(1.2) a a | a/1  =  | a/2  a a
+alto       f/2  e. f/8 | f/2(1.2) R/2 | R/2 f f | e/2  R/2
+tenor      a/2  a. a/8 | a/2(1.2) R/2 | R/2 a d | c/2  R/2
+bass       a+/2 a. a/8 | d/2(1.2) R/2 | R/2 d f | a+/2 R/2
+
+soprano    a/1   =  | a/2 f a | b/2 b d | d/2  c. d/8 | d/2.
+alto       R/2 e g  | f/2 d f | g/2 g g | f/2  e. f/8 | f/2.
+tenor      R/2 c e+ | d/2 a d | d/2 d b | a/2  a. a/8 | a/2.
+bass       R/2 a a  | d/2 d d | g/2 g g | a+/2 a. a/8 | d/2.

@@ -1,0 +1,50 @@
+title      And Now, O Father, Mindful of the Love
+hymnal     Cantus Christi
+page       202
+author     William Bright, 1874
+music      https://www.christkirk.com/wp-content/uploads/2016/06/And-Now-O-Father-Mindful-of-the-Love.pdf
+see_also   Cantus Christi 2020: 480
+
+tune       SONG 1
+metre      10 10. 10 10. 10 10
+composer   Orlando Gibbons, 1623
+key        F
+rhythm     0 : 4
+tempo      125
+
+status     header  tune
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c-/2 c- c- | f g       a a | g g f/2
+alto       c/2  c  c  | d e       f f | f e f/2
+tenor      a/2  a  g  | a c       c d | g c/8 b/8 a/2
+bass       f/2  f  e  | d c/8 b/8 a b | c c f/2
+
+soprano    R a a b       | c c- f  e | d- d-      c-/2
+alto       R f f f/8 g/8 | e c  c  c | c  bn      c/2
+tenor      R c c b       | g e  a  g | g  g/8 f/8 e/2
+bass       R f f d       | c c  f- c | g- g-      c/2
+
+soprano    R g  g  a | b/2.       f         | f f b         a  | g/2. g
+alto       R eb eb f | f - eb - d b/8  c/8  | d c b         c  | c/2. d
+tenor      R c  c  c | d - c - b  d-/8 eb/8 | f f f/8 e/8   f  | e/2. b/8 a/8
+bass       R c  c  f | b/2.       b         | b a g-        f- | c/2. g-
+
+soprano    e  c-  f g       | a         c       g  g   | f/2
+alto       c  c   c d/8 e/8 | f         f       f  e   | f/2
+tenor      g  e   f b       | c         c       c. b/8 | a/2
+bass       c. b/8 a g-      | f-/8 g-/8 a/8 b/8 c  c   | f-/2
+
+soprano    R f g c       | d d       g c | c  bn c/2
+alto       R f f eb      | d f       e f | d  d  e/2
+tenor      R f f g/8 a/8 | b b/8 a/8 g f | g  g  g/2
+bass       R f d c       | b b       c a | g- g- c/2
+
+soprano    R c-      f g       | a  g b       a       | g g       f/2
+alto       R c       c d/8 e/8 | f  e d/8 c/8 f       | f e       f/2
+tenor      R e       f b       | c  c f/8 g/8 a/8 b/8 | c c/8 b/8 a/2
+bass       R c/8 b/8 a g-      | f- c d/8 e/8 f       | c c       f-/2

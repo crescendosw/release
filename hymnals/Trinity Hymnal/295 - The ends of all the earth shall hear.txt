@@ -1,0 +1,34 @@
+title     The ends of all the earth shall hear
+hymnal    Trinity Hymnal
+page      295
+author    William H. Doane, 1832-1916
+key       Eb
+rhythm    4 : 2
+tempo     170
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 f e b/2. b | c/2 e+/2 b/1 | g/2 f e b/2. c
+alto       e/2 d e e/2. e | e/2 e/2  e/1 | e/2 d e e/2. e
+tenor      b/2 a g g/2. g | a/2 a/2  g/1 | b/2 a g g/2. a
+bass       e/2 e e e/2. e | a/2 c/2  e/1 | e/2 e e e/2. e
+
+soprano    b/2 g/2 f/1 | g/2 f e b/2.  b  | c/2  d - e+ e+/1
+alto       e/2 e/2 d/1 | e/2 d e g/2.  g  | a+/2 e/2    g/1
+tenor      g/2 b/2 b/1 | b/2 a g e+/2. e+ | e+/2 b - c  b/1
+bass       e/2 e/2 b/1 | e/2 e e e/2.  e  | a+/2 a+/2   e/1
+
+soprano    e+/2 d c b - g e - a | g/2 f/2 e/1 | b/2 b b b/1
+alto       e/2  e e e/2   e - f | e/2 d/2 e/1 | d/2 e f e/2 -   g/2
+tenor      c/2  b a g - b g - c | b/2 a/2 g/1 | f/2 g a g - a - e+/2
+bass       a/2  a a b/2   c - a | b/2 b/2 e/1 | b/2 b b e/1
+
+soprano    c/2  d  e+ e+/1 | e+/2 d c b - g e - a | g/2 f/2 e/1
+alto       a+/2 a+ a+ g/1  | e/2  e e e/2   e - f | e/2 d/2 e/1
+tenor      e+/2 b  c  b/1  | c/2  b a g - b g - c | b/2 a/2 g/1
+bass       a+/2 a+ a+ e/1  | a/2  a a b/2   c - a | b/2 b/2 e/1
+
+comment    Amen at end

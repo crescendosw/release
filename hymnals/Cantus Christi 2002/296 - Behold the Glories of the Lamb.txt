@@ -1,0 +1,11 @@
+title      Behold the Glories of the Lamb
+hymnal     Cantus Christi
+page       296
+author     Isaac Watts, c. 1688
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Behold-the-Glories-of-the-Lamb.pdf
+see_also   Cantus Christi 2020: 475
+tempo      180
+
+import     tunes/DESERT LYINGHAM
+
+status     header  tune  double  checked

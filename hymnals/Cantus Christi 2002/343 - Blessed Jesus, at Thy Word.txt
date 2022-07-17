@@ -1,0 +1,62 @@
+title      Blessed Jesus, at Thy Word
+hymnal     Cantus Christi
+page       343
+author     st. 1-3, Tobias Clausnitzer, 1663
+author     st. 4, anon. 1707
+translator Catherine Winkworth, 1858
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Blessed-Jesus-at-Thy-Word.pdf
+see_also   Cantus Christi 2020: 374
+
+tune       LIEBSTER JESU
+metre      7 8. 7 8. 8 8
+composer   Johann R. Ahle, 1664
+key        G
+rhythm     4 : 4
+tempo      120
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    b  g a d | b g a/2 | g  g g g
+alto       d  d d d | d e f/2 | d  d e d
+tenor      g  g f a | g b d/2 | b  g c g
+bass       g- b d f | g e d/2 | g- b c b
+
+soprano    a b  a/2   | g/1  | b  g a d | b g a/2
+alto       f g  g - f | d/1  | d  d d d | d e f/2
+tenor      c d  d/2   | b/1  | g  g f a | g b d/2
+bass       a g- d/2   | g-/1 | g- b d f | g e d/2
+
+soprano    g  g g g | a b  a/2   | g/1  | d- d- e  f
+alto       d  d e d | f g  g - f | d/1  | d  d  c# d
+tenor      b  g c g | c d  d/2   | b/1  | b  a  g  a
+bass       g- b c b | a g- d/2   | g-/1 | g  f  e  d
+
+soprano    g a  f d- | g g a b | c  b  a/2   | g/1
+alto       d e  d d  | d e f g | g  g  g - f | d/1
+tenor      b a  a f  | g b d d | e+ d  d/2   | b/1
+bass       b c# d d  | b e d g | c  g- d/2   | g-/1
+
+verse      Bless - ed    Je  -  sus,   at     Thy    Word   We     are gath - ered
+verse      All     our   know - ledge, sense, and    sight  Lie    in  deep - est
+verse      Glo  -  rious Lord,  Thy  - self   im  -  part;  Light  of  light, from
+verse      Fa  -   ther, Son,   and    Ho  -  ly     Ghost, Praise to  Thee   and
+
+verse      all    to    hear     Thee.  Let   our  hearts and souls  be  stirred
+verse      dark - ness  shroud - ed,    Till  Thy  Spir - it  breaks our night
+verse      God    pro - ceed  -  ing,   O  -  pen  lips   and ears   and heart;
+verse      ad  -  o  -  ra   -   tion!  Grant that we     Thy Word   may trust
+
+verse      Now  to   seek  and  love   and  fear    Thee.  By    Thy teach - ings
+verse      With the  beams of   truth  un - cloud - ed.    Thou  a - lone    to
+verse      Help us   by    Thy  Spir - it's plead - ing;   Hear  the cry     Thy
+verse      And  ob - tain  true con -  so - la  -   tion   While we  here    be -
+
+verse      pure   and    ho -  ly,  Drawn from earth to  love    Thee   sole  - ly.
+verse      God    canst win    us;  Thou  must work  all good    with - in      us.
+verse      church now   rais - es;  Lord, ac - cept  our prayers and    prais - es.
+verse      low    must  wan -  der, Till  we   sing  Thy prais - es     yon  -  der.

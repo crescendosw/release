@@ -1,0 +1,36 @@
+title      This is my Father's world
+hymnal     Trinity Hymnal
+page       109
+tune       TERRA BEATA
+metre      S.M.D.
+key        Eb
+rhythm     4 : 4
+tempo      80
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    e/8 f/8 | g b  g f | e/2. f/8  g/8  | a c b g       | f/2.
+alto       e       | e e  e d | e/2. f/8  en/8 | f f f e       | d/2.
+tenor      g/8 a/8 | b b  b a | g/2. c         | c a f g/8 a/8 | b/2.
+bass       d       | d g- b b | c/2. a+/8 g/8  | f e d e       | b/2.
+
+soprano    c  | b g g  f/8 e/8 | g  f  e bb- | e/8 f/8 g b  f/8 g/8 | e/2.
+alto       d  | e e d  c       | d  bn c bb  | e       e e  f       | e/2.
+tenor      b  | b b bn g       | g  g  g a   | g/8 a/8 b b  a/8 b/8 | g/2.
+bass       a+ | g e g- c       | bn g- c d   | e       e g- b       | e/2.
+
+soprano    b       | e+       b       c        d  | e+/2. e+/8 d/8  | c e+ d  c       | b/2. c/8  - c/8
+alto       e/8 f/8 | g/8 a+/8 g/8 f/8 e        a+ | g/2.  g         | g g  f  e       | d/2. d/8  - d/8
+tenor      g/8 a/8 | b        b       a        b  | b/2.  c/8  bn/8 | c bb an g/8 a/8 | b/2. ab/8 - ab/8
+bass       e       | e/8 f/8  g       a+/8 g/8 f  | e/2.  c/8  d/8  | e a  f  f       | b/2. b/8  - b/8
+
+soprano    b g g  f/8 - e/8 | g  f  e bb- | e/8 f/8 g b        f/8 - g/8 | e/2.
+alto       e e e  d/8 - c/8 | bn d  c bb  | e       e e        d/8 - d/8 | e/2.
+tenor      g b g  g/8 - g/8 | g  g  g a   | g/8 a/8 b b        a/8 - b/8 | g/2.
+bass       b b bn c/8 - c/8 | g- bn c d   | e       e g-/8 a/8 b/8 - b/8 | e/2.
+
+
+comment    ties or slurs

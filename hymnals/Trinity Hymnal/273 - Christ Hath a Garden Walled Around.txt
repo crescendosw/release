@@ -1,0 +1,51 @@
+title      Christ Hath a Garden Walled Around
+hymnal     Trinity Hymnal 1961
+page       273
+author     Isaac Watts, 1674-1748
+
+tune       LEIGHTON
+metre      L.M.
+composer   William Leighton, 1614; Reset by Harry E. Wooldridge 1845-1917
+key        G
+rhythm     3 : 2
+tempo      240
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 | a/1 b/2 | c/1      b/2 | a/2. - g a/2 | b/1 b/2 | a/2. - b c#/2 | d/1 a/2
+alto       g/2 | f/1 g/2 | e/2. - f g/2 | g/1      f/2 | g/1 g/2 | a+/1     g/2  | f/1 e/2
+tenor      b/2 | d/1 d/2 | c/1      d/2 | d/1      d/2 | d/1 d/2 | d/1      g/2  | a/1 a/2
+bass       g/2 | d/1 g/2 | a+/1     g/2 | d/1      d/2 | g/1 g/2 | f/1      e/2  | d/1 c#/2
+
+soprano    d/1 c#/2 | d/1. | a/2 b/2 c/2  | b/2. a g/2 | d/2. c   b/2 | a/1 d/2
+alto       f/2 e/1  | f/1. | f/2 f/2 f/2  | g/1    g/2 | a+/1     g/2 | f/1 g/2
+tenor      a/2 a/1  | a/1. | d/2 d/2 c/2  | d/2. c b/2 | a/2  d/1     | d/1 d/2
+bass       d/2 a/1  | d/1. | d/2 d/2 a+/2 | g/1    g/2 | f/1      g/2 | d/1 b/2
+
+soprano    c/1  b/2  | a/1    g/2 | g/1 f/2 | g/1
+alto       g/1  g/2  | f/1    g/2 | e/2 d/1 | d/1
+tenor      e+/1 d/2  | d/2. c b/2 | c/2 a/1 | b/1
+bass       c/1  g-/2 | d/1    e/2 | c/2 d/1 | g-/1
+
+verse      Christ hath a garden walled around,
+verse      A Paradise of fruitful ground,
+verse      Chosen by love and fenced by grace
+verse      From out the world's wide wilderness.
+
+verse      Like trees of spice his servants stand,
+verse      There planted by his mighty hand;
+verse      By Eden's gracious streams, that flow
+verse      To feed their beauty where they grow.
+
+verse      Awake, O wind of heav'n and bear
+verse      Their sweetest perfume through the air:
+verse      Stir up, O south, the boughs that bloom,
+verse      Till the beloved Master come:
+
+verse      That he may come, and linger yet
+verse      Among the trees that he hath set;
+verse      That he may evermore be seen
+verse      To walk amid the springing green.

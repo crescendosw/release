@@ -1,0 +1,57 @@
+title      O, 'Twas a Joyful Sound to Hear
+hymnal     Cantus Christi
+page       160
+author     Tate and Brady, "A New Version of the Psalms of David", 1735
+psalm      122
+music      https://www.christkirk.com/wp-content/uploads/2017/11/O-Twas-a-Joyful-Sound-to-Hear.pdf
+see_also   Cantus Christi 2020: 235
+
+tune       COLCHESTER
+metre      C.M.
+composer   William Tans'ur's "Harmony of Zion", 1734
+key        C
+rhythm     3 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g | c/8 - d/8 - e+ d | b c d | g/2       g  | c/2 b
+alto       e | e/2            f | g/2 d | e/2       e  | e/2 d
+tenor      c | c. -       b/8 a | g/2 f | e. - d-/8 c- | g/2 g
+bass       c | c/2            d | e/2 d | c/2       c  | c/2 g
+
+soprano    c/2      a | b/2 g  | g/2 c | c/2      d  | e+/2 c
+alto       e/2      e | g/2 d  | e/2 e | e/2      f  | e/2  e
+tenor      a. - b/8 c | d/2 b  | c/2 g | f/8 - e. d- | c-/2 g
+bass       e/2      c | g/2 g- | c/2 c | c/2      c  | c/2  c
+
+soprano    g/2      f# | b/2  g | g/2 g  | g       g/2  | g/2
+alto       e/2      d  | d/2  d | e/2 g  | g       d/2  | e/2
+tenor      c. - b/8 a  | g/2  b | c/2 e+ | d/8 c/8 b/2  | c/2
+bass       c/2      d  | g-/2 g | e/2 c  | g       g-/2 | c/2
+
+verse      O   'twas   a    joy  -  ful sound   to   hear,  Our
+verse      At   Sa - lem's courts   we   must   ap - pear,  With
+verse      O   pray   we    then    for   Sa - lem's peace; For
+verse      May peace with -  in     thy   sa - cred  walls   A
+verse      For  my   dear  breth - ren's sake,  and friends  No
+verse      But most   of    all    I'll  seek   thy  good,  And
+
+verse      tribes de - vout  -  ly   say,   Up,  Is - rael! to     the
+verse      our    as -  sem -  bled pow'rs, In strong and  beau - teous
+verse      they  shall pros - perous  be,  Thou  ho -  ly   ci  -   ty
+verse      con - stant guest    be  found; With plen - ty   and    pros -
+verse      less  than  breth - ren   dear, I'll pray,  May peace    in
+verse      ev  -  er   wish    thee  well, For   Si -  on   and    the
+
+verse      tem  - ple  haste,  And keep   your     fes - tal  day.
+verse      or  -  der  ranged, Like her     u  -   nit - ed  towers.
+verse      of     our   God,   Who bear   true    love   to   thee.
+verse      per  -  i -  ty     Thy  pal -  ac   -  es    be  crowned.
+verse      Sa -  lem's tow'rs   a   con - stant   guest  ap - pear.
+verse      tem - ple's  sake, Where God   vouch - safes  to   dwell.

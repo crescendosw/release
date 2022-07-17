@@ -1,0 +1,57 @@
+title      All People That on Earth Do Dwell
+hymnal     Cantus Christi
+page       139
+author     William Kethe, 1561
+music      https://www.christkirk.com/wp-content/uploads/2017/10/All-People-That-on-Earth-Do-Dwell.pdf
+see_also   Cantus Christi 2020: 185
+tempo      125
+
+tune       OLD HUNDREDTH
+metre      L.M.
+composer   Genevan Psalter, 1551
+composer   Louis Bourgeois, 1510-1561
+key        G
+rhythm     4 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 | g f e d- | g/2 a/2 | b/2 b/2
+alto       d/2 | d d b b  | b/2 d/2 | d/2 d/2
+tenor      b/2 | b a g f  | g/2 f/2 | g/2 g/2
+bass       g/2 | g d e b  | e/2 d/2 | g/2 g/2
+
+soprano    b b a g | c/2  b/2 | a/2 g/2
+alto       d g f g | g/2  g/2 | f/2 g/2
+tenor      b d d b | e+/2 d/2 | d/2 b/2
+bass       g g d e | c/2 g-/2 | d/2 e/2
+
+soprano    a b a g | e/2 f/2 | g/2  d/2
+alto       d d f d | e/2 c/2 | d/2  d/2
+tenor      a g f g | g/2 a/2 | b/2  a/2
+bass       f g d b | c/2 a/2 | g-/2 f/2
+
+soprano    b g        a c  | b/2 a/2 | g/2
+alto       d g f e/8 f/8   | g/2 f/2 | d/2
+tenor      g b/8 c#/8 d e+ | d/2 d c | b/2
+bass       g e        d a  | b c d/2 | g-/2
+
+verse      All  peo - ple that on  earth  do  dwell,  Sing
+verse      Know that  the LORD is   God   in - deed;  With -
+verse      O     en - ter then His gates with praise, Ap -
+verse      For  why!  the LORD our  God   is   good;  His
+
+verse      to      the LORD with cheer - ful voice.  Him   serve with mirth, His
+verse      out     our aid   He   did    us  make;    We    are   His folk,  He
+verse      proach with joy  His  courts  un - to;   Praise, laud, and bless  His
+verse      mer  -  cy   is  for - ev -   er  sure;   His   truth  at   all   times
+
+verse      praise forth tell, Come ye    be - fore  him and  re - joice.
+verse      doth    us   feed, And  for   His sheep   He doth us   take.
+verse      Name    al - ways, For  it    is   seem - ly  so  to   do.
+verse      firm  - ly  stood, And shall from  age    to age  en - dure.

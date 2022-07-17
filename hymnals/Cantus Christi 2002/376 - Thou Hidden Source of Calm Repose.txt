@@ -1,0 +1,60 @@
+title      Thou Hidden Source of Calm Repose
+hymnal     Cantus Christi
+page       376
+author     Charles Wesley, 1749
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Thou-Hidden-Source-of-Calm-Repose.pdf
+see_also   Cantus Christi 2020: 424
+
+tune       STELLA
+metre      8 8. 8 8. 8 8
+composer   Easy Hymn Tunes, 1851
+key        D
+rhythm     3 : 4
+tempo      140
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a | a - f a | a/2   d | d - c b | a/2 a | a - g f | e - f g
+alto       d | d/2   c | d - e f | g/2   d | d/2 c | d/2   d | b - d b/8 c/8
+tenor      f | f - a g | f - g a | b - a g | f/2 g | a/2   a | b - a g
+bass       d | d - f e | d/2   d | g-/2  b | d/2 e | f/2   d | g - f e
+
+soprano    f - a f  | e/2   a        | a f a | a/2   d | d - c b  | a/2   a
+alto       d/2   d  | d - c c        | d d a | f - e d | d/2   d  | a/2   e
+tenor      a - f b  | e - a a        | a a e | f - g a | b - a g  | g - f e/8 f/8
+bass       d/2   g- | a/2   a+/8 g/8 | f d c | d - e f | g/2   g- | d/2   c
+
+soprano    a - g f | e - f g | f/2   e       | d-/2 e | e. - f/8       g | f/2   a
+alto       d/2   c | b - d e | e - d c       | d/2  c | c. - d/8       e | e - d e
+tenor      g/2   a | b - a g | a/2   a/8 g/8 | f/2  a | a/2            b | b/2   a/8 g/8
+bass       b/2   a | g - f e | a/2   a       | d/2  a | a+ - g/8 - f/8 e | b/2   c
+
+soprano    a - f b | a/2   a       | d/2   b  | a. - g/8 f  | g/2   e       | d-/2
+alto       f - d e | e - d f/8 e/8 | d/2   d  | d -  c   d  | e - d c       | d/2
+tenor      f - a b | c - d f       | f/2   g  | a/2      d- | b/2   a/8 g/8 | f/2
+bass       d/2   g | g - f d/8 c/8 | b - a g- | f- - a   b  | g-/2  a       | d/2
+
+verse      Thou hid   - den source of    calm re -  pose, Thou   all - suf - fi -  cient
+verse      Thy  might - ty  name   sal - va - tion  is    And    keeps my    hap - py
+verse      Je - sus,    my  all    in    all  Thou  art;  My     rest  in    toil  my
+verse      In   want    my  plen - ti -  ful  sup - ply,  In    weak - ness  my    al -
+
+verse      love    di - vine,  My    help_     and  ref -   uge  from  my   foes,  Se -
+verse      soul    a -  bove;  Com - fort_     it   brings, and  pow'r and  peace  And
+verse      ease    in   pain,  The   med - i - cine of      my   bro - ken  heart, In
+verse      might - y    pow'r, In    bonds_    my   per -   fect lib - er - ty,    My
+
+verse      cure  I   am,    if    Thou   art mine: And lo!   from sin   and
+verse      joy   and ev -   er -  last - ing love: To  me,   with Thy   dear
+verse      war   my  peace, in    loss   my  gain, My  smile be - neath the
+verse      light in  Sa -   tan's dark - est hour, My  help  and  stay  when -
+
+verse      grief and    shame  I     hide  me, Je -   sus, in      Thy name.
+verse      name, are    giv'n  Par - don   and ho -   li - ness    and heav'n
+verse      ty -  rant's frown, In    shame my  glo -  ry   and     my  crown:
+verse      e'er  I      call,  My    life  in  death, my   heav'n, my  all.

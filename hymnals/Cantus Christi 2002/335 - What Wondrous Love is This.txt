@@ -1,0 +1,56 @@
+title      What Wondrous Love is This
+hymnal     Cantus Christi
+page       335
+author     American folk hymn
+music      https://www.christkirk.com/wp-content/uploads/2016/06/What-Wondrous-Love-Is-This.pdf
+see_also   Cantus Christi 2020: 453
+
+tune       WONDROUS LOVE
+metre      12 9. 6 6. 12 9
+composer   William Walker's The Southern Harmony, 1843
+key        C
+rhythm     4 : 4
+tempo      132
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 | d- c- e  g  | a/2   g e | d-/2 d- c- | e/2 a/2
+alto       a/2  | a  a  c  b  | a - b c c | a/2  a  c  | c/2 c/2
+tenor      f/2  | f  e  g  e  | d/2   e g | f/2  f  f  | g/2 f/2
+bass       d/2  | d  a  g- g- | f-/2  c c | d/2  d  d  | c/2 f/2
+
+soprano    c b       a g | a/2 g e | d-/1 = | d-/2 g/2 | a g a c
+alto       c d       e d | e/2 d c | a/1 =  | a/2  c/2 | c e f g
+tenor      g f/8 g/8 a b | c/2 g g | f/1 =  | f/2  g/2 | f c c g
+bass       e d       c b | a/2 b c | d/1 =  | d/2  e/2 | f g f e
+
+soprano    d/2 d/2   | c a a/8 g/8 e | d-/2 d-/2 | d- c- e  g  | a/2   g e
+alto       f/2 f/2   | g e d       c | a/2  a/2  | a  a  b  b  | a - b c c
+tenor      a/2 a - b | c c a       g | f/2  f/2  | f  e  g  e  | d-/2  e g
+bass       d/2 d/2   | e c b       c | d/2  d/2  | d  a  g- g- | f-/2  c c
+
+soprano    d-/2 d- c- | e/2 a/2 | c b       a g | a/2 g e | d-/1 = | d-/2
+alto       a/2  a  c  | c/2 c/2 | c d       e d | e/2 d c | a/1 =  | a/2
+tenor      f/2  f  f  | g/2 f/2 | g f/8 g/8 a b | c/2 g g | f/1 =  | f/2
+bass       d/2  d  d  | c/2 f/2 | e d       c b | a/2 b c | d/1 =  | d/2
+
+verse      What won - drous love  is  this, O    my   soul, O    my   soul, What
+verse      To   God   and   to    the Lamb, I    will sing, I    will sing, To
+verse      And  when  from  death I'm free, I'll sing on,   I'll sing  on,  And
+
+verse      won - drous love  is  this, O    my   soul!  What won - drous love  is
+verse      God   and   to    the Lamb, I    will sing;  To   God   and   to    the
+verse      when  from  death I'm free, I'll sing on;    And  when  from  death I'm
+
+verse      this  that caused the Lord  of  bliss To    bear    the   dread - ful   curse  for  my
+verse      Lamb, who  is     the great I   AM,   While mil  -  lions join    the   theme, I    will
+verse      free, I'll sing   and joy - ful be,   And   through e  -  ter  -  nit - y      I'll sing
+
+verse      soul, for  my   soul, To    bear    the   dread - ful   curse  for  my   soul!
+verse      sing, I    will sing, While mil  -  lions join    the   theme, I    will sing!
+verse      on,   I'll sing on,   And   through e  -  ter  -  nit - y      I'll sing on!

@@ -1,0 +1,33 @@
+title      Author of Life Divine
+hymnal     Cantus Christi
+page       205
+author     Charles Wesley, 1745
+music	   https://crescendosw.bitbucket.io/pdf/cantus_christi_2002/205%20Author%20Of%20Life%20Divine.pdf
+
+
+tune       RHOSYMEDRE
+metre      6 6. 6 6.  8 8. rep
+composer   John David Edwards, 1840
+key        G
+rhythm     0 : 4
+tempo      140
+
+soprano    d- | g g a a | b/2. g | c c  b a | g/2. d-
+alto       d  | d g g f | g/2. f | g g  g f | g/2. d
+tenor      b  | b b d d | d/2. b | c e+ d c | b/2. b
+bass       g  | g e d d | g/2. g | e c  d d | g/2. g
+
+soprano    g g a a | b/2. g | c c  b a | g/2. d
+alto       d g g f | g/2. g | g g  g f | g/2. d
+tenor      b b d d | d/2. b | c e+ d c | b/2. a
+bass       g e d d | g/2. g | e c  d d | g/2. f
+
+soprano    b b b d | c/2 b/2  | a/2. d | c b a g
+alto       d d e d | e/2 d/2  | d/2. d | g g d d
+tenor      g g g g | g/2 g/2  | f/2. g | g d f g
+bass       g g e b | c/2 g-/2 | d/2. b | e d c b
+
+soprano    f g  a f | g a b c | b/2 a/2   | g/2.
+alto       d d  d d | d d d e | d/2 d - c | b/2.
+tenor      c b  f a | g f g g | g/2 f/2   | g/2.
+bass       a g- d c | b d g e | d/2 d/2   | g-/2.

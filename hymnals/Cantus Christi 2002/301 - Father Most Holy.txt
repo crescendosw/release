@@ -1,0 +1,43 @@
+title      Father Most Holy
+hymnal     Cantus Christi
+page       301
+author     Latin hymn, c. 10th century
+translator Percy A. Dearmer, 1906
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Father-Most-Holy.pdf
+see_also   Cantus Christi 2020: 321
+
+tune       CHRISTE SANCTORUM
+metre      11 11. 11 5
+composer   Francois de La Feillee, Methode du plain-chant, 1782
+composer   harm. Ralph Vaughan Williams, 1906
+key        D
+rhythm     4 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     a/2 f g | f - e d-/2 | f. g/8 a a | b/2 a/2 | a/2 b c
+
+unison     d/2 a/2 | d. c/8 b c | b/2 a/2 | d/2 a b | a - g f/2
+
+unison     g. f/8 g a | g - f e/2 | a/2 d- g | f/2 - e/2 | d-/1
+
+verse      Fath - er  most  ho -  ly,     mer - ci - ful,   and   ten -  der;  Je  -  sus, our
+verse      Trin - i - ty    sa -  cred,   Un -  i -  ty     un -  shak - en;   De  -  i -  ty
+verse      Mak -  er  of    all   things, all   Thy  crea - tures praise Thee; Lo,    all  things
+verse      To     the all - rul - ing     Tri - une  God    be    glo -  ry:   High - est  and
+
+verse      Sav  -  ior,  with    the  Fath - er    reign - ing;  Spir - it   all - kind -  ly,
+verse      per  -  fect, giv  -  ing  and    for - giv  -  ing,  Light  of   the   an   -  gels,
+verse      serve   Thee  through Thy  whole  cre - a   -   tion: Hear   us,  Al -  might - y,
+verse      Great - est,  help    Thou our    en -  deav -  or;   We,    too, would praise  Thee,
+
+verse      Ad -  vo - cate, De  - fend - er,  Light   nev - er    wan - ing.
+verse      Life  of   the   for - sak  - en,  Hope    of    all   liv - ing.
+verse      hear  us,  as    we    raise  Thee Heart's ad -  o  -  ra  - tion.
+verse      giv - ing  hon - or    wor  - thy  Now     and   for - ev  - er.

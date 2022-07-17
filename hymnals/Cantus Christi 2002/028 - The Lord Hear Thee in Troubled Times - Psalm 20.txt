@@ -1,0 +1,67 @@
+title      The Lord Hear Thee in Troubled Times
+hymnal     Cantus Christi
+page       28
+author     Douglas Wilson, 2001
+psalm      20
+import     copyrights/Douglas Wilson
+music      https://www.christkirk.com/wp-content/uploads/2018/03/lord-hear-thee-in-troubled-time-ps-20.pdf
+see_also   Cantus Christi 2020: 039
+
+tune       DER HERR ERHOR DICH
+metre      8 7. 8 7. 8 7. 8 7. 7
+composer   Heinrich Schutz, 1661
+key        G
+rhythm     0 : 4
+tempo      225
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 g/2 a b/2 d  d  c# d/2 | a/2 b/2 d  c/2  b a/2 g/2
+alto       b/2  e/2 f g/2 a+ g  e  f/2 | f/2 g/2 d  e/2  g f/2 g/2
+tenor      g/2  b/2 d d/2 d  e+ e+ d/2 | d/2 d/2 b  c/2  d d/2 d/2
+bass       g/2  e/2 d g/2 f  g  a+ d/2 | d/2 g/2 b+ a+/2 g d/2 g/2
+
+soprano    d-/2 g/2 a b/2 d  d  c# d/2 | a/2 b/2 d  c/2  b a/2 g/2
+alto       b/2  e/2 f g/2 a+ g  e  f/2 | f/2 g/2 d  e/2  g f/2 g/2
+tenor      g/2  b/2 d d/2 d  e+ e+ d/2 | d/2 d/2 b  c/2  d d/2 d/2
+bass       g/2  e/2 d g/2 f  g  a+ d/2 | d/2 g/2 b+ a+/2 g d/2 g/2
+
+soprano    b/2 a/2  a  a/2  b c  b a/2  | f/2 g/2 a f/2 g  e/2  d-/2
+alto       d/2 fn/2 fn fn/2 d g  g f#/2 | d/2 e/2 e d/2 d  c#/2 d/2
+tenor      b/2 c/2  c  c/2  b e+ d d/2  | a/2 c/2 c a/2 b  a/2  a/2
+bass       g/2 fn/2 fn fn/2 g c  g d/2  | d/2 c/2 a d/2 g- a/2  d/2
+
+soprano    a/2 b/2  g b/2  d c b  a/2 | g/2 a/2 b  c/2  b   a/2 b/2
+alto       d/2 d/2  c d/2  d e e  e/2 | e/2 f/2 g# a+/2 e   e/2 g#/2
+tenor      f/2 g/2  e g/2  f a g# a/2 | b/2 d/2 d  e+/2 b   c/2 b/2
+bass       d/2 g-/2 c g-/2 b a e  a/2 | e/2 d/2 b  a/2  g#- a/2 e/2
+
+soprano    b/2 g/2 f e/2 d- g/1 g/1
+alto       d/2 e/2 d b/2 d  c/1 b/1
+tenor      b/2 c/2 a g/2 f  e/1 d-/1
+bass       g/2 c/2 d e/2 b  c/1 g-/1
+
+verse      The  LORD hear thee   in    trou - bled times,  May Ja -  cob's God   de - fend   thee,
+verse      We   will re - joice; sal - va  -  tion comes!  In  God's name  lift  our  ban -  ners.
+verse      Some al - ways trust  in    char - i -  ots     And oth - ers   trust in   hors - es,
+
+verse      And send out   strength from Zi - on's hill   And    from His sanc - tu - ar  -   y.
+verse      May God  ful - fill     all  thy  re - quests And    lift up  all    thy  ban  -  ners.
+verse      But we   re -  call     our  LORD and  God,   Strong past our own    re - sourc - es.
+
+verse      May  He   re - call thine of  -  fer - ings, With all   thy sac - ri - fic -  es,
+verse      Thus now  I    know God   saves  His   own,  God  saves His own   a -  noin - ted.
+verse      Our  en - e -  mies have  fall - en    low   But  we    are held  and  up  -  right.
+
+verse      And grant thee all    thy  heart's de -  sire, Ful - fill - ing  all    thy
+verse      He  al -  ways hears, with His     right hand  He    comes  from heav'n a -
+verse      So  save  us,  LORD,  our  God     and   King  As    we     in   trou - ble
+
+verse      pur - pose, As  His good grace    suf - fic  -  es.
+verse      bove  us,   And in  the  strength ap -  point - ed.
+verse      call  Thee, As  we  in   trou  -  ble   call    Thee.

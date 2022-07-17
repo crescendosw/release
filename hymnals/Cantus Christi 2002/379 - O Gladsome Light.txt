@@ -1,0 +1,48 @@
+title      O Gladsome Light
+hymnal     Cantus Christi
+page       379
+author     Greek, 3rd century
+translator Robert Bridges, 1899
+music      https://www.christkirk.com/wp-content/uploads/2016/06/O-Gladsome-Light.pdf
+
+tune       NUNC DIMITTIS
+metre      6 6. 7. 6 6 7
+composer   Genevan Psalter, 1551
+composer   harm. Claude Goudimel, 1564
+key        F
+rhythm     0 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c/2  d  b    b/2 a/2 g/2.  R b/2  a f g g f/2.  R
+alto       a+/2 b+ a+/2 g/2 f#  g/2.  R g/2  f d e e f/2.  R
+tenor      f+/2 f+ f+   d/2 d/2 d/2.  R d/2  d a c c c/2.  R
+bass       f/2  b  f    g/2 d/2 g-/2. R g-/2 d d c c f-/2. R
+
+soprano    f/2 c c d c b/2 a/2. R c/2  a b a g f/2. R
+alto       f/2 f f f f f/2 f/2. R g/2  f f f e d/2. R
+tenor      c/2 a a b a d/2 c/2. R e+/2 d d c c a/2. R
+bass       f/2 f f b f b/2 f/2. R c/2  d b f c d/2. R
+
+soprano    f/2 d- e f  d- c-/2. R f/2 g  a  b a  g/2 f/1
+alto       d/2 d  c c  bn c/2.  R d/2 d  f  f f/2 e  f/1
+tenor      b/2 f  a a  g  g/2.  R b/2 b  c  d c  c/2 c/1
+bass       b/2 b  a f- g- c/2.  R b/2 g- f- b f- c/2 f-/1
+
+verse      O    glad - some Light, O    Grace Of  God    the Fa  - ther's face,
+verse      Now, as     day  fa  -  deth quite We  see    the eve - ning   light,
+verse      To   Thee   of   right  be - longs All praise of  ho  - ly     songs,
+
+verse      Th'e - ter  - nal splen - dor    wear - ing; Ce  - les  -  tial, ho -  ly,  blessed,
+verse      Our    wont - ed  hymn    out  - pour - ing; Fa  - ther    of    might un - known,
+verse      O      Son    of  God,    Life - giv  - er;  Thee, there - fore, O     Most High,
+
+verse      Our   Sav - ior  Je  - sus  Christ, Joy - ful   in   Thine  ap -  pear - ing!
+verse      Thee, His   in - car - nate Son,    And   Ho -  ly   Spir't a  -  dor  - ing.
+verse      The   world does glo - ri - fy      And   shall ex - alt    for - ev  -  er.

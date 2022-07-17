@@ -1,0 +1,71 @@
+title      Lift Up Your Heads
+hymnal     Cantus Christi
+page       224
+author     Georg Weissel, 1642
+translator Catherine Winkworth, 1855
+see_also   Cantus Christi 2020: 550
+display    hidden
+
+tune       MACHT HOCH DIE TUR
+metre      8 8. 8 8. 8 8. 6 6
+composer   Freylinghausen's Gesangbuch, 1704
+key        F
+rhythm     6 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a | c/2 b a/2 g | f - g a g/2 c | b/2 b a - g a
+alto       f | f/2 d f/2 e | d/2   f e/2 f | f/2 e f/2   f
+tenor      c | a/2 b c/2 c | a/2   c c/2 a | b/2 b c/2   d
+bass       f | f/2 g f/2 c | d/2   a c/2 f | g/2 g f/2   d
+
+soprano    g - f g f/2 a | g/2 g a - bn c | c - d bn c/2 g
+alto       d/2   e c/2 f | e/2 g f/2    g | f/2   d  e/2 e
+tenor      b/2   c a/2 c | c/2 c c/2    c | a/2   g  g/2 c
+bass       g/2   c f/2 f | c/2 e f/2    e | d/2   g  c/2 c
+
+soprano    a/2 g a - bn c | c - d bn c/2 c | d/2   c  d/2   c
+alto       f/2 e f/2    g | f/2   d  e/2 f | f - e f  f - e f
+tenor      c/2 c c/2    c | a/2   g  g/2 a | b/2   c  b/2   c
+bass       f/2 c f/2    e | d/2   g  c/2 f | b+/2  a+ b+/2  a+
+
+soprano    d - c   b a/2 c | d/2 c d/2 c  | d - c b a/2  c
+alto       f/2     g f/2 f | f/2 f f/2 g  | f#/2  g f#/2 g
+tenor      b - c   d d/2 a | b/2 a b/2 g  | a/2   b d/2  c
+bass       b+ - a+ g d/2 f | b/2 f b/2 eb | d/2   d d/2  e
+
+soprano    f/2 f b/2   a | g/2. = g/2 c  | b/2   a g - f g | f/2. = f/2
+alto       c/2 d d - e f | e/2. = e/2 f  | f - e f d/2   e | c/2. = c/2
+tenor      a/2 a b/2   c | c/2. = c/2 a  | b/2   c d/2   c | a/2. = a/2
+bass       f/2 d g-/2  a | c/2. = c/2 f- | g-/2  a b/2   c | f/2. = f/2
+
+verse      Lift up     your heads, ye  might - y   gates! Be -  hold   the King  of
+verse      The  Lord   is   just,  a   help -  er  tried, With  mer -  cy  ev  - er
+verse      Oh   blest  the  land,  the cit  -  y   blest, Where Christ the Rul - er
+verse      Re - deem - er,  come!  I   o    -  pen wide   My    heart  to  Thee, here,
+
+verse      Glo - ry    waits;   The King   of  kings  is  draw - ing  near, The
+verse      at    His   side,    His king - ly  crown  is  ho  -  li - ness, His
+verse      is    con - fessed!  Oh  hap  - py  hearts and hap  - py   homes To
+verse      Lord, a  -  bide!    Let me     Thy in  -  ner pres - ence feel, Thy
+
+verse      Sav  - ior  of    the world is    here;   Life and     sal - va  -  tion
+verse      scep - tre, pit - y   in    dis - tress,  The  end     of    all    our
+verse      whom   this king  in  tri - umph  comes!  The  cloud - less  sun    of
+verse      grace  and  love  in  me    re  - veal,   Thy  Ho   -  ly    Spir - it
+
+verse      doth  He bring,  Where - fore    re - joice and   glad - ly  sing:  We
+verse      woe   He brings; Where - fore    the  earth is    glad   and sings: We
+verse      joy   He is,     Who     bring - eth  pure  de -  light  and bliss: O
+verse      guide us on      Un  -   til     our  glo - rious goal   is  won!   E -
+
+verse      praise Thee,  Fath - er,   now, Cre  -  a   -   tor, wise  art Thou!
+verse      praise Thee,  Sav -  ior,  now, Might - y       in   deed  art Thou!
+verse      Com -  fort - er     div - ine, What    bound - less grace is  Thine!
+verse      ter -  nal    praise and   fame We      of   -  fer  to    Thy Name.

@@ -1,0 +1,14 @@
+title      O Sing a New Song to the Lord
+hymnal     Cantus Christi
+page       134
+author     "The Book of Psalms for Singing", 1973
+import     copyrights/Crown & Covenant
+music      https://www.christkirk.com/wp-content/uploads/2017/10/O-Sing-a-New-Song-to-the-Lord.pdf
+hide_text  True
+see_also   Cantus Christi 2020: 181
+
+import     tunes/DESERT LYINGHAM
+
+status     header  tune  double  checked
+
+display    hidden

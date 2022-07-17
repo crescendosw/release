@@ -1,0 +1,83 @@
+title      Along the Streams of Babylon, in Sadness
+hymnal     Cantus Christi
+page       178
+author     W. van der Kamp, 1972
+import     copyrights/Canadian Reformed Churches
+music      https://www.christkirk.com/wp-content/uploads/2018/06/alongthestreamsofbabyloninsadnesspsalm137.pdf
+hide_text  True
+see_also   Cantus Christi 2020: 275
+
+tune       ESTANS ASSIS AUX RIVES AQUATIQUES
+metre      11 11. 10 10. 11 11
+composer   Strasbourg, 1539
+harmony    Claude Goudimel, 1564; alt.
+key        C
+rhythm     0 : 4
+tempo      160
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 f g a/2 a/2 a g a b  c/2  a/2.  R
+alto       d/2  d e f/2 f/2 f e f g  g/2  f#/2. R
+tenor      a/2  a c c/2 d/2 d b d d  e+/2 d/2.  R
+bass       d/2  d c f/2 d/2 d e d g- c/2  d/2.  R
+
+soprano    c/2  a g f/2 g/2 g a  g f e/2  d-/2
+alto       g/2  f e d/2 e/2 e f  e d/2 c# d/2
+tenor      e+/2 c c a/2 c/2 c c  c a a/2  a/2
+bass       c/2  f c d/2 c/2 c f- c d a/2  d/2
+
+soprano    R d- f/2 a/2 g/2 f/2 e  d- e e  d-/2. R
+alto       R a  d/2 e/2 e/2 d/2 c# d  d c# d/2.  R
+tenor      R a  a/2 c/2 c/2 a/2 a  f  a a  a/2.  R
+bass       R d  d/2 a/2 c/2 d/2 a  bb a a  d/2.  R
+
+soprano    a/2 a g f/2 a/2 c  c  b  b  a/2.  R
+alto       f/2 f e d/2 f/2 g  a+ a+ g# a+/2. R
+tenor      d/2 c c a/2 d/2 e+ e+ e+ e+ c#/2. R
+bass       d/2 f c d/2 d/2 c  a  e  e  a/2.  R
+
+soprano    f/2 e d- a/2 c/2  b  a g a f/2 e/2.  R
+alto       a/2 c d  e/2 a+/2 g  f e e d/2 c#/2. R
+tenor      a/2 a b  c/2 e+/2 e+ c c c a/2 a/2.  R
+bass       d/2 c b  a/2 a/2  e  f c a d/2 a/2.  R
+
+soprano    d-/2 f g a/2 g/2 g a  g f e/2  d-/1
+alto       d/2  d e f/2 e/2 e f  e d/2 c# d/1
+tenor      a/2  a c c/2 c/2 c c  c a a/2  a/1
+bass       d/2  d c f/2 c/2 c f- c d a/2  d/1
+
+verse      A -  long  the  streams of   Bab  -  y -  lon,   in    sad - ness
+verse      How  shall we   sing    the  LORD's  song in     our   an -  guish
+verse      Re - mem - ber, LORD,   how  E   -   dom  showed no    pit - y
+verse      O    Bab - y -  lon,    de - stroy - er,  God    shall smite you!
+
+verse      We   sat   and  wept, re - mem  -  b'ring Zi -  on's glad - ness,
+verse      When in    a    for - eign land    we     mourn and  lan -  guish?
+verse      That day   when Bab - y -  lon     razed  Zi -  on's cit -  y,
+verse      How  hap - py   he,   ap - point - ed     to    re - quite  you
+
+verse      And  on   the   wil - lows there  we  hung our  lyre,
+verse      Je - ru - sa -  lem,  for  love   of  you  I    cry;
+verse      How  E -  sau's sons  re - joiced and said to   them,
+verse      With all  the   e  -  vil  you    to  us   have done!
+
+verse      For  there our   cap -  tors did    our  songs re -  quire;
+verse      My   right hand  with - er   if     I    you   den - y.
+verse      Tear down, tear  down   all  of     Je - ru -  sa -  lem.
+verse      May  all   man - kind   your lone - ly   ru -  ins   shun.
+
+verse      While we    la - ment - ed, joy    and  mirth they   want - ed.
+verse      My    mouth be   dumb   if  ev  -  er   I     for -  get    you,
+verse      De -  stroy and  raze   it  down   to   its   foun - da -   tions!
+verse      How   hap - py   he     who shall, de - void  of     pit -  y,
+
+verse      Sing for  us  one  of    Zi  -  on's  songs! they taunt - ed.
+verse      If   not  a - bove my    high - est   joy    I    set     you!
+verse      O    God, do  not  for - get    their prov - o -  ca   -  tions.
+verse      Dash on   the rock the   chil - dren  of     your cit  -  y!

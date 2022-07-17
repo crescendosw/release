@@ -1,0 +1,68 @@
+title      Christ is Made the Sure Foundation
+hymnal     Cantus Christi
+page       344
+author     Latin, 7th century
+translator John Mason Neale, 1851
+composer   alt. in Hymns Ancient and Modern, 1861
+import     copyrights/Dusenbury
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Christ-Is-Made-the-Sure-Foundation.pdf
+see_also   Cantus Christi 2020: 670
+display    hidden
+
+tune       BONNIE
+metre      8 7. 8 7. 8 7
+composer   Timothy D. Dusenbury, 1999
+key        A
+rhythm     6 : 4
+tempo      140
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c-/2 e  f/2   a  | g/2     c- e - d#- c- | f/2   g  a/2   f
+alto       g-/2 b  b - a c  | c - b   a  b/2     g- | d/2   d  c - e d
+tenor      e/2  c- c-/2  f  | f - d#- e  f/2     e# | a - g e# f - g a
+bass       c/2  g- f-/2  f- | g-/2    a  g- - b  c  | d/2   b  a - c d
+
+soprano    b a/2  g/2.     | a/2   b c. - b/8 a  | b/2 g  a/2     g
+alto       d/2 c  c/2.     | f/2   e e/2      c  | d/2 c  c/2     c
+tenor      f f/2  f - e#/2 | c - a g a - e    f  | f/2 e# f/2     e
+bass       b/2 f- c/2.     | f - c e a/2      f- | b/2 c  f- - g- a
+
+soprano    f/2    g  a. - g/8 f | f/2 e f/2.       | c/2 d  e+. - d/8 c
+alto       c - b  b  c - e    d | d c/2 c/2.       | a+ f/2 a+/2      e
+tenor      d- - f e  e - g    a | a g/2 f/2.       | c/2 a  a - e     f
+bass       b/2    e- a - c    d | b/2 c f- - a - c | f d/2  a/2       a
+
+soprano    b/2   g  a/2   g  | f/2    g a. - g/8 f | f/2   e# f/2.
+alto       d - f e# b - d c  | b - a  c d - e#   c | d/2   c  c/2.
+tenor      f/2   b  g - f e# | f/2    e f - b    a | b - a g  a#/2.
+bass       b - c d  d - b c  | f- - c a b - c    d | c - b c  f-/2.
+
+verse      Christ is      made  the  sure  foun - da -  tion, Christ the  Head  and
+verse      All    that    ded - i -  cat - ed     cit - y,    Dear - ly   loved of
+verse      To     this    tem - ple, where we     call  Thee, Come,  O    Lord  of
+verse      Here   vouch - safe  to   all   Thy    ser - vants What   they ask   of
+verse      Laud   and     hon - or   to    the    Fa -  ther, Laud   and  hon - or
+
+verse      Cor -  ner - stone, Cho - sen  of     the  Lord  and   pre -  cious,
+verse      God    on    high,  In    ex - ul  -  tant ju -  bi -  la  -  tion
+verse      hosts, to -  day:   With  thy  wont - ed   lov - ing - kind - ness
+verse      Thee   to    gain,  What  they gain   from Thee  for - ev  -  er
+verse      to     the   Son,   Laud  and  hon -  or   to    the   Spir - it,
+
+verse      Bind - ing   all     the church in   one;  Ho - ly     Zi  -  on's
+verse      Pours  per - pet  -  ual mel -  o -  dy;   God  the    One    in
+verse      Hear   Thy   peo  -  ple as     they pray; And  Thy    full - est
+verse      With   the   bless - ed  to     re - tain, And  here - af  -  ter
+verse      Ev  -  er    Three   and ev  -  er   One,  One  in     might, and
+
+verse      help  for - ev -  er,  And   her    Con - fi - dence a  -  lone.
+verse      Three a  -  dor - ing  In    glad   hymns e -  ter - nal - ly.
+verse      ben - e  -  dic - tion Shed  with - in    its  walls al -  way.
+verse      in    Thy   glo - ry   Ev -  er  -  more  with Thee  to    reign.
+verse      One   in    glo - ry,  While un  -  end - ing  a  -  ges   run.

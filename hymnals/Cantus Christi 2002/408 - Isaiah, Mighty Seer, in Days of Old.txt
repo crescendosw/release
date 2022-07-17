@@ -1,0 +1,103 @@
+title      Isaiah, Mighty Seer, in Days of Old
+hymnal     Cantus Christi
+page       408
+author     Martin Luther, 1525
+translator composite
+music      https://www.christkirk.com/wp-content/uploads/2018/06/Isaiah-Might-Seer-in-Days-of-Old.pdf
+see_also   Cantus Christi 2020: 724
+
+composer   Martin Luther, 1525
+key        D
+rhythm     0 : 4
+tempo      132
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a/2 a f d- f  a a  b  b a/2 | a/2 a g
+alto       d/2 d c b  a  c d  d  d d/2 | f/2 e e
+tenor      f/2 f a f  d- e a  g  g f/2 | a/2 a b
+bass       d/2 d a b  d  a f- g- b d/2 | d/2 c e
+
+soprano    a d- g  f e e d-/2 | a/2 a a d d d a
+alto       c b  d  d d c d/2  | d/2 f e d g f f
+tenor      a f  b  a a e f/2  | f/2 a c a b a d
+bass       a b  g- d a a d/2  | d/2 d a f g d d
+
+soprano    b  a f/2 | f/2 g a f g  f d- e e d-/2
+alto       g  e d/2 | d/2 e e d d  c d  d c d/2
+tenor      d  c a/2 | b/2 b a a b  a f  a a f/2
+bass       g- a d/2 | b/2 e c d g- a b  a a d/2
+
+soprano    d-/2 f e f g a a f g a/2 | d/2 d c
+alto       b/2  d c d d e e d d e/2 | f/2 f f
+tenor      g/2  a a a b c a a b c/2 | a/2 b a
+bass       g-/2 d a d b a c d b a/2 | d/2 b f
+
+soprano    b a a g a g f/2  | e/2 f g a a b a
+alto       d d e e e e d#/2 | b/2 d d c d d d
+tenor      g f a b c b b/2  | g/2 a g e f g f
+bass       g d c e a e b/2  | e/2 d b a d g d
+
+soprano    b c d/2 | a/2 a g f g a d- f  e d-/2
+alto       d e f/2 | f/2 e d d b a b  d  c d/2
+tenor      f a a/2 | d/2 c b a g e f  a  a f/2
+bass       b a d/2 | d/2 a b d e c b  f- a d/2
+
+soprano    f/2 g a  b  a a b c b  a/2 | d/2 c b
+alto       d/2 d d  d  d e d e e  c/2 | d/2 f d
+tenor      a/2 b a  g  f e f a g# a/2 | f/2 a g
+bass       d/2 b f- g- d c b a e  a/2 | b/2 f g
+
+soprano    e+ d  c  a b c  d/2 | d/2 c b a  b c a
+alto       g  a+ e  f f a+ f/2 | f/2 e d c  d e f
+tenor      b  a  a  d d e+ d/2 | a/2 a f f  f a a
+bass       e  f  a+ d b a  d/2 | d/2 a b f- b a d
+
+soprano    g a f/2 | d/2 c b a b c  a g a f/2
+alto       d e d/2 | f/2 f d f f a+ f e e d/2
+tenor      b a a/2 | a/2 a g a d e+ d b c a/2
+bass       b c d/2 | d/2 f g d b a  d e a d/2
+
+soprano    d/2 c  b a b  c a g a  f/2  | b/2 a g
+alto       f/2 f  d d d  e f d e  d#/2 | d/2 d e
+tenor      b/2 a# b f g# a a b cn b/2  | g/2 a b
+bass       b/2 f  g d b  a d b a  b/2  | g/2 f e
+
+soprano    a d- g  f e e d-/2 | d-/2 a a f g a  b
+alto       c d  d  d d c d/2  | d/2  c e d d d  d
+tenor      a f  b  a a e f/2  | f/2  e a a b a  g
+bass       a b  g- d a a d/2  | d/2  a c d b f- g-
+
+soprano    b  a a/2 | a/2 g f g e f e  d- c- d-/2
+alto       d  c d/2 | c/2 d d b c d b  a  a  a/2
+tenor      g  e f/2 | e/2 b a g a a g  f  e  f/2
+bass       g- a d/2 | a/2 b d e a d g- a  a  d/2
+
+verse      I - sa - iah, might - y seet, in days of old The Lord of
+
+verse      all in spir - it did be - hold High on a loft - y throne, in
+
+verse      splen - dor bright, With flow - ing train that filled the Tem - ple quite.
+
+verse      A - bove the throne were state - ly ser - a - phim; Six wings had
+
+verse      they, these mes - sen - gers of Him.  With twain they veiled their fac - es,
+
+verse      as was meet, With twain in rev - 'rent awe they hid their feet,
+
+verse      And with the oth - er twain a - loft they soared; One to the
+
+verse      oth - er called and praised the Lord: Ho - ly is God, the Lord of
+
+verse      Sab - a - oth!  Ho - ly is God, the Lord of Sab - a - oth!
+
+verse      Ho - ly is God, the Lord of Sab - a - oth!  Be - hold, His
+
+verse      glo - ry fill - eth all the earth!  The beams and lin - tels trem - bled
+
+verse      at the cry, And clouds of smoke en - wrapped the throne on high.

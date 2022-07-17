@@ -1,0 +1,48 @@
+title      Let Thy Blood in Mercy Poured
+hymnal     Cantus Christi
+page       261
+author     Greek hymn
+translator John Brownie, 1907
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Let-Thy-Blood-in-Mercy-Poured.pdf
+see_also   Cantus Christi 2020: 624
+
+tune       JESUS, MEINE ZUVERSICHT
+metre      7 8. 7 8. 7 7
+composer   Johann Cruger, Praxis Pietatis Melica, 1653
+key        C
+rhythm     0 : 4
+tempo      120
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g       e a       b c       c       b/2    | a c g e       f       e d-/2  c-/2
+alto       e/8 d/8 c c       f e       e       e/2    | c c d c/8 b/8 a/8 b/8 c c - b c/2
+tenor      c       g f       d c       a       a - g# | a g g g       f       g a - g e/2
+bass       c       c f/8 e/8 d a/8 b/8 c/8 d/8 e/2    | f e b c       d       e f - g c/2
+
+soprano    g       e a       b c       c       b/2    | a c g e       f       e d-/2  c-/2
+alto       e/8 d/8 c c       f e       e       e/2    | c c d c/8 b/8 a/8 b/8 c c - b c/2
+tenor      c       g f       d c       a       a - g# | a g g g       f       g a - g e/2
+bass       c       c f/8 e/8 d a/8 b/8 c/8 d/8 e/2    | f e b c       d       e f - g c/2
+
+soprano    e f#      g# a a  g#      a/2 | b  c  d       e+ d  d       c/2
+alto       c d       d  e fn e/8 d/8 c/2 | e  e  g       g  a+ g/8 f/8 e/2
+tenor      a a       b  c b  b       a/2 | g# a  b       c  c  b       c/2
+bass       a d/8 c/8 b  a d  e       f/2 | e  a+ g/8 f/8 e  f  g       c/2
+
+verse      Let   Thy blood   in    mer - cy  poured, Let   Thy  gra - cious  bod - y   bro - ken,
+verse      Thou didst die   that    I   might live; Bless - ed Lord,  Thou cam'st to  save    me;
+verse      By    the thorns that crowned Thy  brow,  By    the spear  wound  and  the nail - ing,
+verse      Wilt Thou  own   the   gift    I  bring?  All    my  pen  -  i - tence  I  give   Thee;
+
+verse      Be   to   me,  O   gra - cious Lord, Of   Thy bound - less love  the    to -  ken.
+verse      All that love of   God   could give  Je - sus  by     His  sor - rows  gave    me.
+verse      By   the pain and death,   I   now  Claim, O Christ,  Thy  love   un - fail - ing.
+verse      Thou art  my  ex - alt -  ed   King, Of   Thy match - less love  for - give    me.
+
+verse      Thou didst give Thy - self for me, Now I give my - self to Thee.

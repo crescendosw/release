@@ -1,0 +1,60 @@
+title      All Praise to Thee, My God, This Night
+hymnal     Cantus Christi
+page       377
+author     Thomas Ken, 1709
+music      https://www.christkirk.com/wp-content/uploads/2016/06/All-Praise-to-Thee-My-God-This-Night.pdf
+see_also   Cantus Christi 2020: 702
+
+tune       TALLIS' CANNON [EIGHTH MODE MELODY]
+metre      L.M.D.
+composer   Thomas Tallis, 1567
+key        G
+rhythm     4 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d- | d- d- d- g  | g f g  g | a a b  g
+alto       g- | a  a  b  g- | c a d  d | e d d  d
+tenor      g  | g  f  g  g  | a a b  g | g f g  g
+bass       g  | d  d  g- b  | a a g- b | c d g- b
+
+soprano    g f g  g | a   a   b g | c  c  b b
+alto       c a d  d | fn. e/8 d d | c  a  d d
+tenor      a a b  g | c   c   b b | a  a  g g
+bass       a a g- g | g   fn  g g | a+ fn g g-
+
+soprano    a   a   g  g | c c  b b | a  a  g d
+alto       fn. e/8 d  d | c a  d g | e  fn d g
+tenor      c   c   b  b | a a  g d | c  a  b b
+bass       a   fn- g- g | g fn g g | a+ fn g g-
+
+soprano    c a b  b | a  a  g d  | c a b  b  | a a g d-
+alto       e f g  g | e  fn d g  | e f g  g  | e d b d
+tenor      a a g  d | c  a  b b  | a a g  d- | e f g b
+bass       c d g- g | a+ fn g g- | c d g- b  | c d e b
+
+soprano    e f g  b  | a a g  d-  | e f g/2
+alto       c a b  b  | e f b. d/8 | c a b/2
+tenor      a a g  d- | e f g  b   | a a g/2
+bass       c d g- g- | c d e  g   | c d g-/2
+
+verse      All praise to Thee, my God, this night, For all  the   bless - ings
+verse      O   may    my soul  on Thee re - pose,  And with sweet sleep   mine
+
+verse      of    the  light. Keep  me,  O   keep me,  King  of    kings, Be -
+verse      eye - lids close, Sleep that may me   more vig - 'rous make   To
+
+verse      neath Thine own al - might - y   wings.  For -  give me,  Lord, for
+verse      serve my    God when I       a - wake.   Praise God, from Whom  all
+
+verse      Thy     dear Son,  The    ill that I      this  day  have done, That   with the world, my -
+verse      bless - ings flow; Praise Him all  crea - tures here be - low;  Praise Him  a - bove,  ye
+
+verse      self,    and Thee, I,     ere  I     sleep, at  peace may be.
+verse      heav'n - ly  host; Praise Fa - ther, Son,   and Ho -  ly  Ghost.

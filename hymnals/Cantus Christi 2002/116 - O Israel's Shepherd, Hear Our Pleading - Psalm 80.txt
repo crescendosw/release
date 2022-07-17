@@ -1,0 +1,80 @@
+title      O Israel's Shepherd, Hear Our Pleading
+hymnal     Cantus Christi
+page       116
+author     W. W. J. VanOene and William Helder, 1972
+psalm      80:1-11
+hide_text  True
+see_also   Cantus Christi 2020: 149
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2002/116%20O%20Israels%20Shepherd%20Hear%20Our%20Pleading.pdf
+
+tune       O PASTEUR D'ISRAEL, ESCOUTE
+metre      9 9. 8 8. 8 8
+composer   Genevan Psalter, 1562
+harmony    Claude Goudimel, 1564; alt.
+key        C
+rhythm     0 : 4
+tempo      140
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 d- c- d- f g f e/2  d-/2. R a/2 g e g  f
+alto       a/2  bb a  a  d e d/2 c# d/2.  R e/2 e c d  d
+tenor      f/2  g  e  f# a c a a/2  a/2.  R c/2 c g bb a
+bass       d/2  g- a  d  d c d a/2  d/2.  R a/2 c c g- d
+
+soprano    d- f e/2  d-/2. R a/2  c d a/2  f/2 g g a/2. R
+alto       a  d/2 c# d/2.  R f/2  e f d/2  d/2 e e f/2. R
+tenor      f  a a/2  a/2.  R d-/2 a a f#/2 a/2 c b d/2. R
+bass       d  d a/2  d/2.  R d/2  a d d/2  d/2 c e d/2. R
+
+soprano    a/2  c  d  a/2 f/2 g g a/2. R a/2  c  b
+alto       f#/2 a+ a+ f/2 d/2 e e f/2. R f#/2 g  g
+tenor      d/2  e+ f+ d/2 a/2 c b d/2. R d/2  e+ d
+bass       d/2  a  d  d/2 d/2 c e d/2. R d/2  c  g-
+
+soprano    a g/2 f/2 e f/2.  R bb/2 g/2 a/2 f d- g/2    e/2 d-/1
+alto       e e a/2 c/2 c/2.  R g/2  e/2 e/2 d a  e - d/2 c# d/1
+tenor      c c f/2 g/2 a/2.  R d/2  c/2 c/2 a f  bb/2   a/2 a/1
+bass       a c d/2 c/2 f-/2. R g-/2 c/2 a/2 d d  g-/2   a/2 d/1
+
+verse      O    Is  -  rael's Shep - herd, hear   our   plead - ing,  O     Thou who  Jo  - seph's
+verse      How  long   wilt   Thou   with  in  -  dig - na   -  tion  Ig -  nore Thy  peo - ple's
+verse      LORD God    of     hosts, wilt  Thou   re  - store   us;   Cause then Thy  face  to
+verse      Thou didst  pre  - pare   the   ground for   plant - ing;  Thy   vine took root  and,
+verse      Why  didst  Thou   break  its   walls  a  -  sun  -  der?  All   who  pass by    its
+verse      O    God    of     hosts, grant pres - er -  va   -  tion; Pro - tect Thy  vine  from
+verse      But  let    Thy    hand,  so    full   of    pow  -  er,   Thy   aid  and  fa -  vor
+verse      From Thee   we     then   shall turn   back  nev  -  er;   Re  - vive us   and    we
+
+verse      flock  art   lead - ing.   En -  throned a  - bove  the  cher - u   -  bim!
+verse      sup  - pli - ca  -  tion?  Tears are     the  bread of   Is  -  ra  -  el;
+verse      shine  be  - fore   us.    From  ser  -  vi - tude  in   E   -  gypt's land
+verse      noth - ing   want - ing.   It    filled  the  land  so   that   its    shade
+verse      fruit  can   plun - der.   Thy   vine    is   rav - aged by     the    boar
+verse      dev  - as  - ta  -  tion.  For   they    with fire  have burned the    vine
+verse      free - ly    show - er     Up -  on      the  man   of   Thy    right  hand;
+verse      shall  for - ev  -  er     Call  on      Thy  Name, be - fore   thee   bow.
+
+verse      Shine forth  be -  fore   Thy    E   -  phra - im,     Show  Ben - ja -
+verse      Thou  giv  - est   tears  to     drink  as     well.   Thou  mak - est
+verse      Didst Thou   bring out    a      vine   to     plant.  Where oth - er
+verse      A     shel - ter   for    the    moun - tains  made;   It    o  -  ver
+verse      And   oth  - er    beasts de  -  vour   still  more.   Turn  Thou, O
+verse      And   cut    it    down,  though it     was    Thine.  O     let   them
+verse      Help  Thou   the   son    of     man    to     stand,  For   Thou  didst
+verse      LORD  God    of    hosts, re  -  store  us     now.    Up -  on    us
+
+verse      min,   Ma  - nas  -  seh   light!  Come, save    us,   God!   Stir  up   Thy  might!
+verse      us     to    suf  -  fer   scorn;  Our   neigh - bors' jeer - ing   we   have borne.
+verse      na  -  tions dwelt   be -  fore    Thou  plant - edst  it     for - ev - er - more.
+verse      spread the   might - y     trees,  Right to      the   Riv  - er    and  the  Sea.
+verse      God,   and   show    Thy   face;   Look  down    up -  on     Thy   vine in   grace.
+verse      per -  ish   in      their fear    When  Thou    dost  with   re  - buke ap - pear.
+verse      cause  him   to      be    Thine.  Up -  on      him   cause  Thy   face to   shine.
+verse      cause  Thy   face    to    shine,  And   save    us,   LORD,  for   we   are  Thine.
+display    hidden

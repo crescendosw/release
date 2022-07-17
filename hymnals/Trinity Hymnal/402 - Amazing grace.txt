@@ -1,0 +1,25 @@
+title     Amazing grace
+hymnal    Trinity Hymnal
+key       G
+rhythm    3 : 4
+tempo     80
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d- | g/2   b/8  g/8 | b/2 a | g/2 e | d-/2 d- | g/2  b/8  g/8 | b/2 a | d/2. = | d/2
+alto       b  | b/2   d        | d/2 c | b/2 c | b/2  b  | b/2  d        | d/2 d | d/2. = | d/2
+tenor      g  | d-/2  g        | g/2 f | g/2 g | g/2  g  | d-/2 g        | g/2 f | g/2. = | g/2
+bass       g- | g-/2  g-/8 b/8 | d/2 d | e/2 c | g-/2 g- | g-/2 g-/8 b/8 | d/2 c | b/2. = | b/2
+
+soprano    b  | d. - b/8 d/8 b/8 | g/2 d- | e. - g/8 g/8 e/8  | d-/2 d- | g/2 b/8 g/8 | b/2 a | g/2.  = | g/2
+alto       d  | d/2      d       | d/2 d  | c. - d/8 c        | b/2  d  | b/2 d       | d/2 c | b/2.  = | b/2
+tenor      g  | b. - g/8 b/8 g/8 | g/2 g  | g/2      c-/8 g/8 | g/2  g  | g/2 g/8 b/8 | g/2 f | g/2.  = | g/2
+bass       g- | g/2      g       | b/2 b  | c. - b/8 c        | g-/2 b  | e/2 d       | d/2 d | g-/2. = | g-/2

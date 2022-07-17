@@ -1,0 +1,84 @@
+title      The Spacious Firmament on High
+hymnal     Cantus Christi
+page       330
+author     Franz Joseph Haydn, 1798
+author     arr. Isaac B. Woodbury
+music      https://www.christkirk.com/wp-content/uploads/2016/06/The-Spacious-Firmament-on-High.pdf
+see_also   Cantus Christi 2020: 345
+
+tune       CREATION
+metre      L.M.D.
+composer   Joseph Addison, 1712
+key        Ab
+rhythm     4 : 4
+tempo      185
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano     e | a/2. a | b/2. b  | c - a f - b | a/2 - g e/8 f/8
+alto        e | c/2. e | e/2. e  | e/2   f/2   | e/2.    e
+tenor       e | e/2. a | g/2. b  | a/2   a - d | c/2 - b g/8 a/8
+bass        e | a/2. c | e/2. g- | a - c d - b | e/2.    e
+
+soprano     g - a b - c | d/2. c   | c - b b - a | a/2 - g e | a/2. a
+alto        e/2   e/2   | e/2  e/2 | f/2   f/2   | e/2.    e | c/2. e
+tenor       b - a g - a | b/2  a/2 | f/2   f - b | b/2.    e | e/2. a
+bass        d - c b - a | g-/2 a/2 | d/2   dn/2  | e/2.    e | a/2. c
+
+soprano     b/2. b  | c - a f - b | a/2 - g e/8 f/8 | g - a b - c | d/2. c
+alto        e/2. e  | e/2   f/2   | e/2.    e       | e/2   e/2   | e/2  e/2
+tenor       g/2. b  | a/2   a - d | c/2 - b g/8 a/8 | b - a g - a | b/2  a/2
+bass        e/2. g- | a - c d - b | e/2.    e       | d - c b - a | g-/2 a/2
+
+soprano     c - b a - g | a/2. e | e/2. e | a/2. a | b/2. b | c/2.  b
+alto        f/2   e - d | c/2. e | e/2. e | e/2. e | e/2. e | e/2.  e
+tenor       a - b c - b | a/2. e | e/2. e | e/2. a | g/2. g | a/2.  g
+bass        d/2   e/2   | a/2. e | e/2. e | c/2. c | e/2. e | a+/2. e
+
+soprano     c - d - e+ c | b - c - d b | c - d - e+ c | b/2. e
+alto        e/2.       e | e/2.      e | e/2.       e | e/2. e
+tenor       a - b - c  a | g - a - b g | a - b - c  a | g/2. g
+bass        e/2.       e | e/2.      e | e/2.       e | e/2. e
+
+soprano     e/2.      e | a/2.      a | b/2.      b | c/2.  b
+alto        e/2.      e | e - d - e c | e/2.      e | e/2.  e
+tenor       g/2.      g | a/2.      a | g - a - b g | a/2.  g
+bass        e - f - e d | c - b - c a | e - f - g e | a+/2. e
+
+soprano     c - d - e+ c | b - c - d  b | a/2 g/2 | a/2.
+alto        e/2.       e | f - e - d  f | e/2 d/2 | c/2.
+tenor       a/2.       a | f - an - b b | c/2 b/2 | a/2.
+bass        a - b - c  a | d - c - b  d | e/2 e/2 | a/2.
+
+verse       The  spa -  cious fir - ma - ment   on    high, With
+verse       Soon as     the   eve - ning shades pre - vail  The
+verse       What though in    sol - emn  si  -  lence all   Move
+
+verse       all   the   blue e  -  the - real  sky,   And  span -  gled
+verse       moon  takes up   the   won - drous tale,  And  night - ly
+verse       round the   dark ter - res - trial ball?  What though  no
+
+verse       heav'ns, a   shin - ing    frame Their great O - rig - i -
+verse       to       the lis -  tning earth Re -  peats the sto - ry
+verse       re   -   al  voice  nor    sound A  -  mid   the ra -  diant
+
+verse       nal  pro - claim.  Thun - wea - ried  sun,  from day   to   day,
+verse       of   her   birth;  While   all   the   stars that round her  burn
+verse       orbs be    found?  In      rea - sons ear   they all   re - joice,
+
+verse       Does his  Cre - a   -  tors powers dis - play,  And
+verse       And  all  the   plan - ets   in     their turn,  Con -
+verse       And  ut - ter   forth  a     glo -  rious voice, For -
+
+verse       pub - lish - es     to   ev - 'ry  land   The
+verse       firm  the    tid -  ings as   they roll,  And
+verse       ev -  er     sing - ing  as   they shine, The
+
+verse       work   of   an    Al - might - y    Hand.
+verse       spread the  truth from pole    to   pole.
+verse       hand   that made  us   is      di - vine.

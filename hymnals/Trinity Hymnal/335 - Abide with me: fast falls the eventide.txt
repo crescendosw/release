@@ -1,0 +1,31 @@
+title       Abide with me: fast falls the eventide
+hymnal      Trinity Hymnal
+page        335
+author      Henry F. Lyte, 1847
+
+tune        EVENTIDE
+metre       MONK
+composer     William H. Monk,  1861
+key         Eb
+rhythm      4 : 4
+tempo       130
+
+voice       soprano E4 to D5
+voice       alto    A3 to G4
+voice       tenor   E3 to D4
+voice       bass    A2 to G3
+
+soprano     g/2 g f | e/2 b/2 | c b b a | g/1 | g/2 a b
+alto        e/2 d d | e/2 e/2 | e d e f | e/1 | e/2 e e
+tenor       b/2 b a | g/2 e/2 | e b b b | b/1 | b/2 a g
+bass        e/2 b b | c/2 g/2 | a b c d | e/1 | e - d c b
+
+soprano     c/2 b/2 | a f g an | b/1 | g/2 g f | e/2 b/2
+alto        e/2 e/2 | e f e e | d/1 | e/2 d d | e/2 e/2
+tenor       a/2 g/2 | c b b e | f/1 | g - a b a | g/2 e+ - d
+bass        a/2 e/2 | f d e c | b/1 | e/2 b b | c/2 g-/2
+
+soprano     b a    a  g  | f/1 | f/2 g a | g f e a | g/2 f/2 | e/1
+alto        e e    en en | f/1 | d/2 e d | e d e f | e/2 d/2 | e/1
+tenor       c c    c  b  | a/1 | b/2 b b | b a g c | b/2. a  | g/1
+bass        a. b/8 c  c  | f/1 | a/2 g f | e b c a | b/2 b/2 | e/1

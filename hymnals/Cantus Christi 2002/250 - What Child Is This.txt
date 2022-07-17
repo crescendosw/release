@@ -1,0 +1,57 @@
+title      What Child Is This
+hymnal     Cantus Christi
+page       250
+author     Traditional English carol, before 1642
+author     adapted by William Chatterton Dix, c. 1865
+music      https://www.christkirk.com/wp-content/uploads/2016/06/What-Child-Is-This.pdf
+see_also   Cantus Christi 2020: 580
+
+tune       GREENSLEEVES
+metre      8 7. 8 7. 6 8. 6 7
+composer   English melody, 16th century
+key        G
+rhythm     3 : 4
+tempo      65
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    e/8 | g a/8 b/8. c/16 b/8 | a f/8 d-/8. e/16 f/8  | g e/8 e/8. d#-/16 e/8 | f  d#-/8 b- e/8
+alto       b/8 | e d/8 d         g/8 | f d/8 d          c/8  | b b/8 a           e/8 | d# b/8   b  b/8
+tenor      g/8 | b a/8 g         b/8 | d a/8 f          a/8  | g g/8 e           e/8 | b.       b  g/8
+bass       e/8 | e f/8 g         g/8 | d d/8 d          d#/8 | e e/8 c           c/8 | b.       b  e/8
+
+soprano    g a/8 b/8. c/16 b/8 | a f/8 d-/8. e/16 f/8  | g/8. f/16 e/8 d#-/8. c#-/16 d#-/8 | e. e.
+alto       e d/8 d         g/8 | f d/8 d          c/8  | b         c/8 b             b/8   | b. b.
+tenor      b a/8 g         b/8 | d a/8 f          a/8  | g         a/8 f             f/8   | a. g.
+bass       e f/8 g         g/8 | d d/8 d          d#/8 | e         a/8 b             b/8   | e. e.
+
+soprano    d.  d/8.  c#/16 b/8 | a f/8 d-/8. e/16 f/8  | g e/8 e/8. d#-/16 e/8 | f  d#-/8 b-.
+alto       f.  b+/8. a+/16 g/8 | f d/8 d          c/8  | b b/8 a           a/8 | d# b/8   b.
+tenor      b.  d           d/8 | d a/8 f          a/8  | g g/8 a           e/8 | b  f/8   b.
+bass       b+. g           g/8 | d d/8 d          d#/8 | e e/8 c           c/8 | b  b/8   b.
+
+soprano    d.  d/8.  c#/16 b/8 | a f/8 d-/8. e/16 f/8  | g/8. f/16 e/8 d#-/8. c#-/16 d#-/8 | e. e.
+alto       f.  b+/8. a+/16 g/8 | f d/8 d          c/8  | b         c/8 b             b/8   | b. b.
+tenor      b.  d           d/8 | d a/8 f          a/8  | g         a/8 f             f/8   | a. g.
+bass       b+. g           g/8 | d d/8 d          d#/8 | e         a/8 b             b/8   | e. e.
+
+verse      What Child is this, who,   laid  to   rest,   On   Mar -  y's  lap  is sleep - ing?
+verse      Why  lies  He  in   such   mean  es - tate, Where   ox    and  ass are feed -  ing?
+verse      So   bring Him in - cense, gold, and  myrrh, Come, peas - ant, king to  own    Him.
+
+verse      Whom  an  -  gels  greet with  an - thems sweet, While shep - herds watch  are   keep - ing?
+verse      Good Chris - tian, fear: for  sin - ners  here    The   si -  lent   Word  is   plead - ing.
+verse      The  King     of   kings sal - va - tion brings;  Let   lov -  ing  hearts en - throne  Him.
+
+verse      This,   this   is   Christ, the   King, Whom shep - herds guard and an - gels sing:
+verse      Nails, spears shall pierce  Him through, The cross   be   borne for me,  for  you.
+verse      Raise, raise    a   song    on    high,  The  vir - gin   sings her lul - a - by.
+
+verse      Haste, haste to  bring Him  laud , The Babe, the Son of Mar - y!
+verse      Hail,  hail  the  Word made flesh, The Babe, the Son of Mar - y!
+verse      Joy,   joy,  for Christ is  born,  The Babe, the Son of Mar - y!

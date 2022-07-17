@@ -1,0 +1,60 @@
+title      Only-Begotten, Word of God Eternal
+hymnal     Cantus Christi
+page       216
+author     Latin, c. 9th century
+translator Maxwell J. Blacker, 1884; alt.
+import     copyrights/Healey Willan
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Only-Begotten-Word-of-God-Eternal.pdf
+see_also   Cantus Christi 2020: 491
+display    hidden
+
+tune       ISTE CONFESSOR (ROUEN)
+metre      11 11. 11 5
+composer   "Antiphoner", Poitiers, 1746
+harmony    Healey Willan, 1918
+key        F
+rhythm     4 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto  A3 to G4
+voice      tenor E3 to D4
+voice      bass  A2 to G3
+
+soprano    d-/2 a f | g/2 a/2 | d-. e/8  f g | f e d-/2 | d-/2 a  f
+alto       a/2  a a | c/2 c/2 | b/2      c d | c/2 a/2  | b/2  a  d
+tenor      f/2  a f | g/2 a/2 | f.  g/8  f b | a g f/2  | f/2  f  a
+bass       d/2  c d | c/2 a/2 | b.  g-/8 a b | c/2 d c  | b/2  f- d
+
+soprano    g/2 a/2 | a. g/8 a bn | c bn a/2 | d/2  c  d    | c  b  a/2
+alto       e/2 f/2 | f. c/8 c f  | e/2  c/2 | d/2  g  a+ = | a+ g  e/2
+tenor      c/2 c/2 | d. g/8 f f  | g/2  a/2 | d/2  c  f+   | f+ d  d c
+bass       c/2 f e | d. e/8 f d  | c e  a/2 | d-/2 e- d-   | f- g- a/2
+
+soprano    c.  b/8  a b  | a   g f/2 | a/2 d- e  | f/2    e/2       | d-/1
+alto       f.  e/8  f g  | f - e d/2 | c/2 b/2   | c  d = d c/8 b/8 | a/1
+tenor      a.  b/8  c d  | c   c a/2 | a/2 f  g  | a  b   g/2 =     | g/2 f/2
+bass       f-. g-/8 a g- | a   c d/2 | a/2 b  g- | f- b   c c-      | d-/1
+
+verse      On  -  ly -  be -  got - ten,  Word   of   God    e -  ter -  nal, Lord  of  cre -
+verse      This   is   Thy    tem - ple   here   Thy pres - ence  ho  -  ly;  Here  may Thy
+verse      Here   in   our   sick - ness, heal - ing grace   a - bound - eth, Light in  our
+verse      Hal - lowed this  dwell - ing where   the Lord    a -  bid -  eth, This  is  none
+verse      Lord,  we    be - seech  Thee,  as    we throng  Thy   tem -  ple.  By   Thy past
+verse      God    in  three   Per - sons,  Fa - ther  ev  -  er - last - ing,  Son  co - e -
+
+verse      a   -   tion, mer - ci - ful   and   might -  y:  Hear    now, Thy    ser - vants,
+verse      ser  -  vants, at  the   mys - tic    ban -  quet, Hum -  bly   a -  dor - ing,
+verse      blind - ness,  in  our  toil    re - fresh - ment: Sin     is  for - giv - en,
+verse      oth  -   er   than the  gate    of   heav  -  en; Stran - gers and   pil - grims,
+verse      bless - ings,  by  Thy  pres - ent   boun  -  ty,  Fa  -  vor  Thy  chil - dren,
+verse      ter   -  nal,  ev - er  bless - ed   Spir  -  it: Thine    be  the   glo - ry,
+
+verse      when   their joy - ful   voic -  es  Rise   to    Thy  pres - - - ence.
+verse      take    Thy  bod -  y    bro -  ken, Drink  of    Thy  chal - - - ice.
+verse      hope   o'er fear   pre - vail - eth, Joy     o -  ver   sor - - - row.
+verse      seek -  ing homes   e -  ter -  nal, Pass through its   por - - - tals.
+verse      and    with  ten - der   mer  -  cy  Hear   our    pe -  ti - - - tions.
+verse      praise, and   a  -  do -  ra -  tion, Now   and   for -  ev - - - er.

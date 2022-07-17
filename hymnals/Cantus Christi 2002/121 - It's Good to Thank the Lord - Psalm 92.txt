@@ -1,0 +1,37 @@
+title      It's Good to Thank the Lord
+hymnal     Cantus Christi
+page       121
+author     "The Psalms for Singing", 1973
+import     copyrights/Crown & Covenant
+music      https://www.christkirk.com/wp-content/uploads/2018/03/its-good-to-thank-the-lord-psalm-92.pdf
+hide_text  True
+see_also   Cantus Christi 2020: 169
+tempo      162
+
+import     tunes/DARWALL'S 148TH [DARWALL]
+
+status     header  tune  double  checked  lyrics
+
+verse      It's   good    to    thank the  LORD,  To     praise Your  name,  Most
+verse      Your   deeds,  LORD, make  me   glad.  I'll   joy    in    what   You've
+verse      Though sin  -  ners  grow  like weeds, Ill -  do  -  ers   blos - som
+verse      You've raised, like  ox,   my   horn,  Poured fresh  oil   on     my
+verse      Those  plant - ed    by    the  LORD   Shall  in     God's courts be
+
+verse      High!  To      show   Your    love  at    dawn,     Your faith - ful -
+verse      done.  How     great  Your    do -  ings, LORD!     How  deep    Your
+verse      may,   They're doomed to      be    de -  stroyed.  You, LORD,   ex -
+verse      head.  You     made   me      see   the   spies     And  hear    what
+verse      seen;  When    old    they'll still bear  fruit     And  flour - ish
+
+verse      ness     all  night!  The   ten  -  stringed lyre   With
+verse      thoughts each one!    Fools won't   be       shown; The
+verse      alt  -   ed   stay.   LORD, Your    foes     fall.  See!
+verse      plot  -  ters said.   Like  thriv - ing      palm   The
+verse      fresh    and  green,  And   loud    pro   -  claim  How
+
+verse      sweet - voiced lute   and  rip - pling harp   Your praise in -  spire.
+verse      stu  -  pid    can't  ac - cept  this  truth, To   him    un -  known!
+verse      How     Your   foes,  vain e  -  vil   men,   Are  scat - tered all!
+verse      right - eous   grows, like ce -  dars  tall   On   Leb -  a  -  non.
+verse      up   -  right  is     the  LORD, my    Rock;  No   wrong  in    Him!

@@ -1,0 +1,68 @@
+title      God the Lord Is Known in Judah
+hymnal     Cantus Christi
+page       115
+author     "The Book of Psalms for Singing", 1973
+psalm      76
+import     copyrights/Crown & Covenant
+music      https://www.christkirk.com/wp-content/uploads/2018/04/God-the-Lord-is-Known-in-Judah-Psalm-76.pdf
+hide_text  True
+see_also   Cantus Christi 2020: 144
+
+tune       NEANDER
+metre      8 7. 8 7. 8 7
+composer   Joachim Neander, 1680
+key        C
+rhythm     4 : 4
+tempo      155
+
+status     header  tune  double checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c-. d-/8 e c- | e f g  g | c b/8 a/8 g e+
+alto       g-. b/8  c c  | c c d  d | e f       d g
+tenor      e.  g/8  g g  | g a c  b | c c       b c
+bass       c.  g-/8 c e  | c a g- g | c f       g e
+
+soprano    d  d c/2 | c-. d-/8 e c- | e f g  g
+alto       a+ g e/2 | g-. b/8  c c  | c c d  d
+tenor      c  b c/2 | e.  g/8  g g  | g a c  b
+bass       f  g c/2 | c.  g-/8 c e  | c a g- g
+
+soprano    c b/8 a/8 g e+ | d  d c/2 | e+. e+/8 d d
+alto       e f       d g  | a+ g e/2 | g.  g/8  g g
+tenor      c c       b c  | c  b c/2 | c.  c/8  c b
+bass       c f       g e  | f  g c/2 | c.  e/8  g g
+
+soprano    c  c       b  b  | a. a/8 g c | d b c/2
+alto       e  e       e  e  | c. f/8 e g | f d e/2
+tenor      a  a       g# g# | a. c/8 c c | a g g/2
+bass       a+ c/8 d/8 e  e  | f. f/8 c e | f g c/2
+
+verse      God   the   Lord   is  known in    Ju  -   dah;  Great His  name  in
+verse      Ex -  cel - lent   art Thou  and   glo  -  rious Com - ing  from  the
+verse      Horse and   char - iot low   are   ly   -  ing   In    the  sleep of
+verse      When  from  heav'n Thy sen - tence sound - ed,   All   the  earth in
+verse      Make  your  vows   now to    Je -  ho   -  vah;  Pay   your God   what
+
+verse      Is   -  ra - el;     His   pa -  vil  -  ion  is    in     Sa   -  lem;
+verse      hills   of   prey.   Thou  hast  spoiled the  val - iant - heart - ed;
+verse      death's dark night.  Ja -  cob's God,    Thou didst re  -  buke    them;
+verse      fear    was  still,  While to    save    the  meek  and    low  -  ly
+verse      is      His  own;    All   men,  bring   your gifts be  -  fore    Him;
+
+verse      His   a - bode    on   Zi  -   on  hill.   There   He     broke the
+verse      Wrapt in  sleep   of   death   are they.   Might - y      men   have
+verse      Thou  art fear -  ful  in      Thy might.  When    Thine  an -  ger
+verse      God   in  judg  - ment wrought His will.   Ev'n    the    wrath of
+verse      Fear  is  due     to   Him     a - lone;   He      brings low   the
+
+verse      bow   and   ar   -  rows, Bade  the   sword  and  shield be   still.
+verse      lost  their cun  -  ning; None  are   read - y    for    the  fray.
+verse      once  is    ris  -  en,   Who   may   stand  be - fore   Thy  sight?
+verse      man   shall praise  Thee; What  re -  mains  is   kept   from ill.
+verse      pride of    princ - es;   Kings shall trem - ble  at     His  frown.
+display    hidden

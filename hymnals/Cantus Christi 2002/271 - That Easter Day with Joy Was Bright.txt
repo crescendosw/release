@@ -1,0 +1,65 @@
+title      That Easter Day with Joy Was Bright
+hymnal     Cantus Christi
+page       271
+author     Latin hymn, 4th or 5th century
+translator John Mason Neale, 1851; alt.
+music      https://www.christkirk.com/wp-content/uploads/2016/06/That-Easter-Day-with-Joy-was-Bright.pdf
+see_also   Cantus Christi 2020: 627
+
+tune       ERSCHIENEN IST
+metre      8 8. 8 8. 4
+composer   Nikolaus Herman, 1560
+key        C
+rhythm     3 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d- d- d- | a/2 b  | c. - b/8 a   | g/2.
+alto       a  a  a  | c/2 d  | e. - d/8 d   | b/2.
+tenor      f  f  f  | e/2 g  | g/2      f#  | g/2.
+bass       d  d  d  | a/2 g- | c. - g-/8 d  | g-/2.
+
+soprano    a  b c# | d/2 a | c b/2    | a/2.  | a c a
+alto       d  d e  | f/2 d | e e/2    | c#/2. | d e c
+tenor      f# g g  | a/2 f | a a - g# | a/2.  | f g f
+bass       d  g e  | d/2 d | a e/2    | a/2.  | d c f
+
+soprano    g. - f/8 e | f  d-/2 | c-/2. | c- f  g
+alto       c/2      c | c  b/2  | c/2.  | c  d  e
+tenor      g/2      g | a  g/2  | e/2.  | e  f  bb
+bass       e. - d/8 c | f- g-/2 | c/2.  | c  bb g-
+
+soprano    a/2  g | f c/2 | a/2 g | f. - g/8  e  | d-/2.
+alto       f/2  e | d c/2 | c/2 e | d/2       c# | d/2.
+tenor      c/2  c | a g/2 | f/2 c | a. - bb/8 a  | f#/2.
+bass       f-/2 c | d e/2 | f/2 c | d. - g-/8 a  | d/2.
+
+verse      That Eas  -  ter  day   with joy    was   bright:
+verse      He   bade    them see   His  hands, His   side,
+verse      O    Je   -  sus, King  of   gen -  tle - ness,
+verse      O    Lord    of   all,  with us     a  -  bide
+verse      All  praise, O    ris - en   Lord,  we    give
+
+verse      The   sun   shone out   with  fair - er    light, When to     their
+verse      Where yet   the   glo - rious wounds a  -  bide;  The  to  -  kens
+verse      Do    Thou  Thy - self  our   hearts pos - sess,  That we     may
+verse      In    this, our   joy - ful   Eas -  ter - tide;  From ev  -  'ry
+verse      To    Thee, Who,  dead, a  -  gain   dost  live;  All  praise to
+
+verse      long - ing   eyes  re - stored, The   glad  a -
+verse      true   which made  it   plain   Their Lord  in -
+verse      give   Thee  all   our  days    The   tri - bute
+verse      wea -  pon   death can  wield   Thine own   re -
+verse      God    the   Fa -  ther be      And   Ho -  ly
+
+verse      pos -  tles  saw     their Lord.    Hal - le - lu - jah!
+verse      deed   was   ris'n   a  -  gain.    Hal - le - lu - jah!
+verse      of     our   grate - ful   praise.  Hal - le - lu - jah!
+verse      deemed for - ev   -  er    shield.  Hal - le - lu - jah!
+verse      Ghost  e  -  ter  -  nal - ly.      Hal - le - lu - jah!

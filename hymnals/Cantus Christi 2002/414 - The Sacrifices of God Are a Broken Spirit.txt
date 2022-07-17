@@ -1,0 +1,56 @@
+title      The Sacrifices of God Are a Broken Spirit
+hymnal     Cantus Christi
+page       414
+author     Psalm 51:17-19a
+music      https://www.christkirk.com/wp-content/uploads/2018/09/sacrifices-of-god-are-a-broken-spirit-psalm-51-17-19a.pdf
+see_also   Cantus Christi 2020: 705
+
+composer   Litany in the Phrygian Mode
+composer   Swedish Massbok, 1942
+composer   adapted, Regina H. Fryxell, 1958
+key        C
+rhythm     0 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+soprano    e  a g e e    d-    e/2    e e g/2 g e e/2
+alto       c  f d c/2    b     c/2    c/2  d/2. c/2.
+tenor      a  c b a/2. = a/2   a/2    b/2.    a/2.
+bass       a+ f g a+/2. = a+/2 a+/2 = a+/2. = a+/2.
+
+soprano    e e - g a g - a b a b c c a/2 a a g a b/2(1)
+alto       c c - d e d - e g e g g/2 f/2 c d e/2 g/2(1)
+tenor      a a - b c b - c d c d c/2  c/2 a/2 b c d/2(1)
+bass       a+ a+/2.  a+/2  g a+ g e/2 f/2 f/2 e a+ g/2(1)
+
+soprano    e a a a g e e f f e e/2  | b c/2 c
+alto       e f/2 f d c/2 d b c c/2  | d c/2 g
+tenor      c c/2 c b a/2 a f g g/2  | g g/2 c
+bass       a+ f/2 f g a+/2 d/2 c/2. | g e/2.
+
+soprano    a a a g a b/2(1)    | a a a g e/2 e e f e
+alto       e f/2 e/2 g/2(1)    | e/2 f d e/2 e/2 c/2
+tenor      c/2. c = c d/2(1)   | c/2 c b c/2 g/2 a g
+bass       a+ f/2 c+ a+ g/2(1) | a+/2 f g c/2 c/2 a c
+
+soprano    e e d- e e e/2    | b c c c a - g a/2 f/2 e/2 e/2(1)
+alto       c/2 a b/2 = b/2   | e e/2. f - e e/2 d/2 b/2 = b/2(1)
+tenor      g/2 a g#/2 = g#/2 | b a/2. c/2 c/2 a/2 a/2 g#/2(1)
+bass       c/2 f e/2 = e/2   | g# a+/2. f - c a/2 d/2 e/2 = e/2(1)
+
+verse      The sac - ri - fic - es of God are a bro - ken spir - it:
+
+verse      a bro - ken and a con - trite heart, O God, Thou wilt not de - spise.
+
+verse      Do good in Thy good pleas - ure un - to Zi - on: build Thou the
+
+verse      walls of Je - ru - sa - lem.  Then shalt Thou be pleased with the sac - ri -
+
+verse      fic - es of right - eous - ness: with burnt of - f'ring, and whole burnt of - f'ring.

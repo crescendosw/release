@@ -1,0 +1,56 @@
+title      Judge Me, O God, and Plead My Cause
+hymnal     Cantus Christi
+page       78
+author     Scottish Psalter, 1615
+music      https://www.christkirk.com/wp-content/uploads/2019/11/Judge-Me-O-God-Please-My-Cause-Psalm-43.pdf
+see_also   Cantus Christi 2020: 085
+
+tune       MARTYRS
+metre      C.M.
+composer   Scottish Psalter, 1615
+key        C
+rhythm     0 : 4
+tempo      132
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d-/2 f d- | a/2 f/2   | e d- a/2
+alto       a/2  d d  | e/2 a - b | c d  e/2
+tenor      f/2  a f  | e/2 f/2   | g g  c/2
+bass       d/2  d d  | c/2 d/2   | c b  a/2
+
+soprano    a/2 c a | b/8 c/8 d       a/2  | a/2 c g
+alto       f/2 g f | d/8 e/8 f       e/2  | f/2 g e
+tenor      c/2 c c | g       a/8 b/8 c#/2 | c/2 g c
+bass       f/2 e f | g       d       a+/2 | f/2 e c
+
+soprano    a f e d- | a/2 | c/2 | b g/8 a/8 b/2  a/2   | d-/1
+alto       c b c d  | e/2 | c/2 | d e       d/2  d - c | a/1
+tenor      f f g g  | c/2 | e/2 | g g       g/2  e/2   | f/1
+bass       f d c b  | a/2 | a/2 | b c       g-/2 a/2   | d/1
+
+verse      Judge me,   O    God,  and   plead my  cause
+verse      For   Thou  the  God   art   of    my  strength;
+verse      O     send  Thy  light forth and   Thy truth;
+verse      Then  will  I    to    God's al -  tar go,
+verse      Why   art   thou then  cast  down, my  soul?
+verse      Still trust in   God;  for   Him   to  praise
+
+verse      A -  gainst  th'un - god   -  ly    nation;  From the     un -
+verse      Why  thrusts Thou    me       Thee  fro'?    For  th'en - e -
+verse      Let  them    be      guides   to    me,      And  bring   me
+verse      To   God     my      chief -  est   joy:     Yea, God,    my
+verse      What should  dis  -  cour  -  age   thee?    And  why     with
+verse      Good cause   I       yet      shall have:    He   of      my
+
+verse      just   and     craft -  y    man,    O     be    Thou my      sal - vation.
+verse      my's   op  -   pres_    -    sion    Why   do    I    mourn - ing   go?
+verse      to     Thine   ho   -   ly   hill,   Ev'n  where Thy  dwell - ings  be.
+verse      God,   Thy     name     to   praise  My    harp  I    will    em  - ploy.
+verse      vex  - ing     thoughts art  thou    Dis - qui - et - ed      in    me?
+verse      coun - t'nance is       the  health, My    God   that doth    me    save.

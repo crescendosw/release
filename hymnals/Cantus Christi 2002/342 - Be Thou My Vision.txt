@@ -1,0 +1,64 @@
+title      Be Thou My Vision
+hymnal     Cantus Christi
+page       342
+author     Ancient Irish
+translator Mary Byrne, 1927
+versifier  Eleanor Hull, 1927
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Be-Thou-My-Vision.pdf
+see_also   Cantus Christi 2020: 373
+
+tune       SLANE
+metre      10 10. 9 10
+composer   Traditional Irish melody
+harmony    David Evans, 1927
+key        Eb
+rhythm     3 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+soprano    e e  f/8 e/8 | c-      b- c- | e e f | g/2.
+alto       R/2.         | R/2.          | c/2 e | e/2.
+tenor      b c  b       | a/8 g/8 f  g  | g/2 c | b/2.
+bass       g a+ g       | f/8 e/8 d  e  | c b a | e- b e
+
+soprano    f f  f | f        g        b       | c  b g | b/2.
+alto       b an b | c        d        g/8 f/8 | g  f e | f/2   e
+tenor      f/2. = | f        b        b       | e+ b b | e+ d  b
+bass       d c  b | b/8 an/8 g-/8 f/8 e/8 d/8 | c  d e | b  b+ g
+
+soprano    c  c/8 d/8 e+/8 d/8  | c       b        g       | b e d- | c-/2      b-
+alto       e  a+      g         | g/2              d       | f R/2  | R/2.
+tenor      a  c =     c/8  f+/8 | e+      d        b       | b/2 a  | g a/8 g/8 f
+bass       a+ f       c/8  d/8  | e/8 f/8 g/8 an/8 b/8 g/8 | d g f  | e f/8 e/8 d
+
+soprano    e g b       | c/8 b/8 g  e/8 g/8 | f       e e | e/2.
+alto       c e d       | e/2.               | c/2.        | b/2.
+tenor      g/2 f       | g       b/2        | a       g f | g/2.
+bass       c/2 b/8 a/8 | g-      e- g-      | a/8 b/8 c a | e-/2.
+
+verse      Be     Thou my vis -  ion, O   Lord  of    my   heart;
+verse      Be     Thou my wis -  dom, and Thou  my    true word;
+verse      Rich - es   I  heed   not, nor man's emp - ty   praise,
+verse      High   King of heav - en,  my  vic - to -  ry   won,
+
+verse      Nought be   all   else     to    me,    save   that   Thou art -
+verse      I      ev - er    with     Thee  and    Thou   with   me,  Lord;
+verse      Thou   mine in -  her   -  i  -  tance, now    and    al - ways:
+verse      May    I    reach heav'n's joys, O      bright heav - en's Sun!
+
+verse      Thou  my  best  thought_       by     day   or  by   night,
+verse      Thou  my  great Fa_     -      ther,  I     Thy true son;
+verse      Thou  and Thou  on_     -      ly,    first in  my   heart,
+verse      Heart of  my    own     heart, what - ev -  er  be - fall,
+
+verse      Wak - ing  or sleep - ing, Thy pres -  ence my   light.
+verse      Thou  in   me dwell - ing, and I       with Thee one.
+verse      High  King of heav -  en,  my  Treas - ure  Thou art.
+verse      Still be   my vis  -  ion, O   Ru   -  ler  of   all.

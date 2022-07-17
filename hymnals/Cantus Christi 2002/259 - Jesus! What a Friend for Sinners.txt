@@ -1,0 +1,56 @@
+title      Jesus! What a Friend for Sinners
+hymnal     Cantus Christi
+page       259
+author     J. Wilbur Chapman, 1910
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Jesus-What-a-Friend-for-Sinners.pdf
+see_also   Cantus Christi 2020: 449
+
+tune       HYFRYDOL
+metre      8 7. 8 7. D.
+composer   Rowland Hugh Pritchard, 1855
+key        F
+rhythm     3 : 4
+tempo      150
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    f/2 g | f. g/8 a | b/2 a | g f g | c/2  b       | a/2 a | g f g | f/2.
+alto       c/2 e | f/2    f | d g f | e d e | f c  d/8 e/8 | f e d | d/2 e | f/2.
+tenor      a/2 g | a. b/8 c | g c c | c a c | c a  b       | c/2 a | b a c | a/2.
+bass       f/2 c | f/2    f | f e f | c d c | a a+ g       | f/2 f | d/2 c | f/2.
+
+soprano    f/2  g | f. g/8 a | b/2 a | g f g | c/2  b       | a/2 a | g f g | f/2.
+alto       c/2  e | f/2    f | d g f | e d e | f c  d/8 e/8 | f/2 e | d/2 e | f/2.
+tenor      a/2  g | a. b/8 c | g c c | c a c | c a  b       | c/2 c | b a c | a/2.
+bass       f- a c | f/2    f | f e f | c d c | a a+ g       | f/2 a | b d c | f/2.
+
+soprano    c/2  c  | c b a | b/2 b | b a g | a/2 a | a b c  | c  b a | g/2.
+alto       e/2  e  | f/2 f | f e d | e/2 e | f/2 f | f g a+ | a+ g f | f/2 e
+tenor      a/2  a  | f g a | g/2 g | g a b | a c c | d/2 c  | d/2  d | g/2.
+bass       a+/2 a+ | d/2 d | g/2 g | c/2 c | f/2 e | d b a  | g-/2 b | c/2.
+
+soprano    c  a c  | b g b    | a f a | g/8 a/8 b/8 a/8 g       | c/2 c | d c b | a/2 g | f/2.
+alto       f/2  e  | g/2 g    | f c c | c/2             c       | c f e | d f f | f/2 e | f/2.
+tenor      a  c c  | d/2 c    | c a f | e/8 f/8 g/8 f/8 e       | f a c | b c d | c/2 b | a/2.
+bass       a+ f a+ | g. f/8 e | f/2 a | c/2             c/8 b/8 | a/2 a | b a b | c/2 c | f/2.
+
+verse      Je - sus! what a  Friend for   sin  - ners!   Je - sus  lov  - er    of   my soul;
+verse      Je - sus! what a strength in   weak - ness!   Let  me  hide    my - self  in Him;
+verse      Je - sus! what a   help   in   sor  - row!   While the  bil - lows  o'er  me roll,
+verse      Je - sus! what a  guide  and   keep - er!    While the  tem - pest  still is high,
+verse      Je - sus!  I  do   now    re - ceive  him,   More  than all    in    him   I find;
+
+verse      Friends may  fail    me,  foes    as -  sail    me,  He, my   Sav -  ior,  makes   me  whole.
+verse      Tempt - ed, tried,  and   some - times  fail -  ing, He, my strength, my    vic - t'ry wins.
+verse      E   -  ven   when    my  heart    is    break - ing, He, my   com -  fort, helps   my  soul.
+verse      Storms   a - bout    me, night   o'er - takes   me,  He, my    pi -  lot,  hears   my  cry.
+verse      He     hath  grant - ed    me     for - give - ness, I   am   his,   and     He    is  mine.
+
+verse      Hal - le - lu - jah!  what a Sav - ior!  Hal - le - lu - jah, what a Friend!
+
+verse      Sav - ing, help - ing, keep - ing, lov - ing, He is with me to the end.

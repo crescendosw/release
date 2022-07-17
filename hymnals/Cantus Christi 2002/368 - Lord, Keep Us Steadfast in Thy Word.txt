@@ -1,0 +1,24 @@
+title      Lord, Keep Us Steadfast in Thy Word
+hymnal     Cantus Christi
+page       368
+author     Martin Luther, 1541
+translator Catherine Winkworth, 1863
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Lord-Keep-Us-Steadfast-in-Thy-Word.pdf
+see_also   Cantus Christi 2020: 386
+tempo      132
+
+status     header  tune  double  checked  lyrics
+
+import     tunes/ERHALT UNS, HERR
+
+verse      Lord, keep  us     stead - fast in      Thy  Word;  Curb those who fain by
+verse      Lord  Je -  sus    Christ, Thy  pow'r   make known, For  Thou  art Lord of
+verse      O     Com - fort - er      of   price - less worth, Send peace and u -  ni -
+
+verse      craft and sword  Would wrest the king -  dom   from Thy
+verse      lords a - lone;  De -  fend  Thy Chris - ten - dom, that
+verse      ty    on  earth; Sup - port  us  in      our   fi - nal
+
+verse      Son     And set  at   naught all  He     hath done.
+verse      we      May ev - er - more   sing praise to   Thee.
+verse      strife, And lead us   out    of   death  to   life.

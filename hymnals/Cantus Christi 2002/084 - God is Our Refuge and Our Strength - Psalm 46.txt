@@ -1,0 +1,69 @@
+title      God is Our Refuge and Our Strength
+hymnal     Cantus Christi
+page       84
+author     Scottish Psalter, 1615
+psalm      46
+music      https://www.christkirk.com/wp-content/uploads/2016/08/PS-46.2-erb.pdf
+see_also   Cantus Christi 2020: 091
+
+tune       STROUDWATER
+metre      C.M.
+composer   Wilkin's Psalmody, c. 1730
+key        G
+rhythm     3 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g | d-/2 g | d/2 b | c - b  a       | g/2  g
+alto       d | d/2  e | f/2 g | g/2    f       | g/2  d
+tenor      b | a/2  g | a/2 g | e+ - d d/8 c/8 | b/2  g
+bass       g | f/2  e | d/2 e | c - d  d       | g-/2 b
+
+soprano    a/2 b | c/2 b  | a/2 b | a/2   g | d-/2 f
+alto       d/2 d | e/2 d  | d/2 d | d - c b | d/2  d
+tenor      f/2 g | g/2 g  | f/2 g | f/2   g | g/2  a
+bass       d/2 g | c/2 g- | d/2 g | d/2   e | b/2  d
+
+soprano    g/2      a  | d/2 d/8 c/8 | b - a    g | c - b a       | g/2(1)
+alto       d/2      c# | d/2 d       | d. - c/8 b | e - d d/8 c/8 | b/2(1)
+tenor      b. - a/8 g  | f/2 a       | g - f    g | g/2   f       | g/2(1)
+bass       g. - f/8 e  | d/2 f       | g - d    e | c - d d       | g-/2(1)
+
+verse      God    is      our  re -  fuge  and     our     strength, In
+verse      Though hills   a -  midst the   seas    be      cast;     Though
+verse      A      riv  -  er   is,   whose streams make    glad      The
+verse      God    in      the  midst of    her     doth    dwell;    No -
+verse      The    heath - en   raged tu -  mul  -  tuous - ly,       The
+verse      The    Lord    of   hosts up -  on      our     side      Doth
+verse      Come,  and     be - hold  what  won  -  drous   works     Have
+verse      Un  -  to      the  ends  of    all     the     earth     Wars
+verse      Be     still,  and  know  that  I       am      God;      A -
+verse      Our    God,    who  is    the   Lord    of      hosts,    Is
+
+verse      straits a       pre  -  sent aid;     There - fore,  al - though  the
+verse      wa   -  ters    roar -  ing  make,    And     trou - bled be;     yea,
+verse      ci   -  ty      of      our  God;     The     ho  -  ly   place,  where -
+verse      thing   shall   her     re - move:    The     Lord   to   her     an
+verse      king -  doms    mov  -  ed   were:    The     Lord   God  ut   -  ter -
+verse      con  -  stant - ly      re - main:    The     God    of   Ja   -  cob's
+verse      by      the     Lord    been wrought; Come,   see    what des  -  o -
+verse      in   -  to      peace   He   turns:   The     bow    He   breaks, the
+verse      mong    the     heath - en   I        Will    be     ex - alt  -  ed;
+verse      still   up   -  on      our  side;    The     God    of   Ja   -  cob
+
+verse      earth  re -  move,  We   will    not   be     a   -  fraid:
+verse      though the   hills  By   swell - ing   seas   do     shake.
+verse      in     the   Lord   Most high    hath  His    a   -  bode.
+verse      help - er    will,  And  that    right ear -  ly,    prove.
+verse      ed     His   voice, The  earth   did   melt   for    fear.
+verse      our    re -  fuge,  Us   safe -  ly    to     main - tain.
+verse      la  -  tions great  He   on      the   earth  hath   brought.
+verse      spear  He    cuts,  In   fire    the   char - iot    burns.
+verse      I      on    earth  Will be      ex -  alt -  ed     high.
+verse      our    re -  fuge   For  ev  -   er    will   a   -  bide.

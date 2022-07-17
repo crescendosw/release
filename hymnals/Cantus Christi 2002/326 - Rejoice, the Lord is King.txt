@@ -1,0 +1,26 @@
+title      Rejoice, the Lord is King
+hymnal     Cantus Christi
+page       326
+author     Charles Wesley, 1746; alt.
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Rejoice-the-Lord-is-King.pdf
+see_also   Cantus Christi 2020: 537
+
+import     tunes/DARWALL'S 148TH [DARWALL]
+
+status     header  tune  double  checked  lyrics
+
+verse      Re - joice, the Lord  is    King:   Your Lord  and  King   a  -  dore!   Re -
+verse      Je - sus,   the Sav - ior,  reigns, The  God   of   truth  and   love;   When
+verse      His  king - dom can - not   fail,   He   rules o'er earth  and   heav'n; The
+verse      He   sits   at  God's right hand    Till all   His  foes   sub - mit,    And
+verse      Re - joice  in  glo - rious hope!   Our  Lord, the  Judge, shall come,   And
+
+verse      joice, give thanks and   sing,   And tri - umph ev -  er - more.
+verse      He     had  purged our   stains, He  took  His  seat  a -  bove.
+verse      keys   of   death  and   hell    Are to    our  Je -  sus  giv'n.
+verse      bow    to   His    com - mand,   And fall  be - neath His  feet.
+verse      take   His  ser -  vants up      To  their e -  ter - nal  home.
+
+verse      Lift up your heart,
+
+verse      Lift up your voice!  Re - joice, a - gain I say, re - joice!

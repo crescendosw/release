@@ -1,0 +1,101 @@
+title      My Soul, Now Bless Thy Maker
+hymnal     Cantus Christi
+page       142
+author     Thomas Ken, 1709
+music      https://www.christkirk.com/wp-content/uploads/2017/10/My-Soul-Now-Bless-Thy-Maker.pdf
+see_also   Cantus Christi 2020: 193
+
+tune       NUN LOB, MEIN SEEL
+metre      7 8. 7 8. 7 6. 7 6. 7 6. 7 6
+composer   Johann Kugelmann's Concentus Novi, Augsburg, 1540
+harmony    Heinrich Schutz, 1661
+key        Ab
+rhythm     0 : 4
+tempo      220
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a  | a/2  g f/2 e | a/2 b c/2  c  | c/2  c  c/2  b
+alto       e  | e/2  e c/2 c | c/2 e e/2  a+ | a+/2 a+ a+/2 g
+tenor      c  | c/2  b a/2 g | f a g a/2  e+ | e+/2 e+ e+/2 e+
+bass       a+ | a+/2 e f/2 c | f/2 e a+/2 a+ | a+/2 a+ a+/2 e
+
+soprano    a b/2 | a/2. = a/2 a  | a/2  g f/2 e | a/2 b c/2  c
+alto       f/2 g | e/2. = e/2 e  | e/2  e c/2 c | c/2 e e/2  a+
+tenor      c d b | c/2. = c/2 c  | c/2  b a/2 g | f a g a/2  e+
+bass       f d e | a/2. = a/2 a+ | a+/2 e f/2 c | f/2 e a+/2 a+
+
+soprano    c/2  c  c/2  b  | a b/2 | a/2. = a/2 a | a/2 c  b/2  c
+alto       a+/2 a+ a+/2 g  | f/2 g | e/2. = e/2 e | f/2 a+ g/2  g
+tenor      e+/2 e+ e+/2 e+ | c d b | c/2. = c/2 c | d/2 e+ e+/2 e+
+bass       a+/2 a+ a+/2 e  | f d e | a/2. = a/2 a | d/2 a  e/2  c
+
+soprano    a/2       g         f/2  a | b/2  g a f/2  | e/2.  = e/2  e
+alto       f/2       en        f/2  f | f/2  e e dn/2 | e/2.  = e/2  b
+tenor      c/2.                c/2  c | f/2  b c b/2  | b/2.  = b/2  g
+bass       f-/8 g-/8 a/8 b/8 c f-/2 f | dn/2 e a b/2  | e-/2. = e-/2 e
+
+soprano    a/2 a b/2 b | c/2.     a/2 c | d/2   d  c/2 c  | b/2. = b/2 b
+alto       d/2 e d/2 b | e/2.     d/2 e | f/2   gb gb f/2 | f/2. = f/2 e
+tenor      f/2 e f/2 g | a. g/8 e f/2 e | d- b- b  b/2 an | b/2. = b/2 g
+bass       d/2 c b/2 e | a/2.     d/2 c | b  b+ gb e  f/2 | b/2. = b/2 e
+
+soprano    c/2  c d/2  d  | e+/2.          a/2 c  | b/2 g a f/2
+alto       e/2  f f gb a+ | gb/2.          f/2 a+ | f/2 e e dn/2
+tenor      a/2  a a b  d  | d. c/16 b/16 c d/2 e+ | d/2 c c b/2
+bass       a+/2 f d gb f  | e/2.           d/2 a   | b/2 c a b/2
+
+soprano    e/2.  = e/2  e | a/2 g  f/2 e  | b/2.  b/2  c  | d  c  b a/2 g
+alto       e/2.  = e/2  c | e/2 c  a/2 c  | f/2.  g/2  a+ | a+/2  f e f e
+tenor      b/2.  = b/2  a | c/2 e+ d/2 e+ | dn/2. e+/2 e+ | f+ e+ d c b/2
+bass       e-/2. = e-/2 a | a/2 c  d/2 a  | b/2.  e/2  a  | d  a  b c d e
+
+soprano    a/2 b  c/2  c  | d  c  b a/2 g | a/2. = a/2
+alto       c/2 b  e/2  a+ | a+/2  f e f e | e/2. = e/2
+tenor      a/2 e+ c/2  e+ | f+ e+ d c b/2 | c/2. = c/2
+bass       f/2 g  a+/2 a  | d  a  b c d e | a/2. = a/2
+
+verse      My    soul, now bless Thy  Mak  -  er!  Let  all    with -  in     me
+verse      He    shows to  man    His  treas - ure  Of   judg - ment,  truth, and
+verse      For   as    a   ten -  der  fa   -  ther Hath pit -  y      on     His
+verse      God's grace a - lone   en - dur  -  eth, And  chil - dren's chil - dren
+
+verse      bless   His    name  Who mak - eth  thee     par - tak -  er   Of
+verse      right - eous - ness, His love  be - yond     all   meas - ure, His
+verse      chil -  dren   here, He  in    His  arms     will  gath - er   All
+verse      yet     shall  prove How He    with strength as -  sur -  eth  The
+
+verse      mer  -  cies more  than thou    dar'st claim.  For - get    Him
+verse      yearn - ing  pit - y    o'er    dis -  tress,  Nor   treats us
+verse      who     are  His   in   child - like   fear.   He    knows  how
+verse      hearts  of   all   that seek    His    love.   In    heav'n is
+
+verse      not   whose meek -  ness Still bears with all  thy sin,  Who
+verse      as    we    mer  -  it   But   lays  His  an - ger by.   The
+verse      frail our   pow  -  ers  Who   but   from dust are made; We
+verse      fixed His   dwell - ing, His   rule  is   o -  ver all;  An -
+
+verse      heal -  eth all   thy   weak - ness, Re  -  news  your  life  with - in;
+verse      poor    and con - trite spir - it    Finds  His   com - pas - sion   nigh;
+verse      flour - ish like  the   flow - ers,  And    e  -  ven   so    we     fade;
+verse      gels,   in  might ex  - cel -  ling, Bright hosts be -  fore  Him    fall.
+
+verse      Whose  grace and care   are  end  -  less And saved thee  through the
+verse      And    high  as  heav'n a -  bove    us,  As  break from  close   of
+verse      The    wind  but o'er   them pass -  es,  And all   their bloom   is
+verse      Praise Him   who ev  -  er   reign - eth, All ye    who   hear    His
+
+verse      past; Who leaves no    suf - f'rer friend - less But rights the
+verse      day,  So  far,   since He    doth  loved    us,  He  puts   our
+verse      o'er, We  with - er    like  the   grass -  es;  Our place  knows
+verse      word, Nor our    poor  hymns dis - dain  -  eth  My  soul,  O
+
+verse      wronged at  last.  But rights the   wronged at  last.
+verse      sins    a - way,   He  puts   our   sings   a - way.
+verse      us      no  more,  Our place  knows us      no  more.
+verse      bless   the LORD;  My  soul,  O     bless   the LORD!

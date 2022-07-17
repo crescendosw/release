@@ -1,0 +1,46 @@
+title      How Sweet the Name of Jesus Sounds
+hymnal     Cantus Christi
+page       307
+author     John Newton, 1779; alt.
+music      https://www.christkirk.com/wp-content/uploads/2016/06/How-Sweet-the-Name-of-Jesus-Sounds.pdf
+see_also   Cantus Christi 2020: 428
+
+tune       ST. PETER
+metre      C.M.
+composer   Alexander Robert Reinagle, 1836
+key        Eb
+rhythm     4 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    b | e+ d c  b | b a g g | f  e a g | f/2. g
+alto       e | g  g e  e | f d e e | c  b d e | d/2. e
+tenor      g | b  b a  b | b b b b | a  b b b | b/2. b
+bass       e | e  g a+ g | d b e e | a+ g f e | b/2. e/8 db/8
+
+soprano    a g        c       b  | b  a g e | g  f e d- | e/2.
+alto       e e/8 db/8 c/8 d/8 e  | e  d e c | e  c b b  | b/2.
+tenor      a b        e/8 f/8 g  | c  b e g | b  a g f  | g/2.
+bass       c b        a       g- | f- b c c | g- a b b  | e/2.
+
+verse      How  sweet the name    of    Je  -  sus   sounds  In   a       be - liev -  er's  ear!
+verse      It   makes the wound - ed    spir - it    whole   And  calms   the  trou -  bled  breast;
+verse      Dear Name, the Rock    on    which  I     build,  My   Shield  and  Hid  -  ing   Place,
+verse      By   Thee  my  prayers ac  - cep -  tance gain,   Al - though  with sin     de -  filed;
+verse      Je - sus!  my  Shep -  herd, Hus -  band, Friend, My   Proph - et,  Priest, and   King,
+verse      Weak is    the ef   -  fort  of     my    heart,  And  cold    my   warm  - est   thought;
+verse      Till then  I   would   Thy   love   pro - claim   With ev   -  'ry  fleet - ing   breath;
+
+verse      It   soothes his  sor -  rows, heals   his  wounds, And  drives  a -  way    his fear.
+verse      'Tis man  -  na   to     the   hun  -  gry  soul,   And  to      the  wear - y,  rest.
+verse      My   nev  -  er - fail - ing   treas - 'ry, filled  With bound - less stores of  grace!
+verse      Sa - tan     ac - cus  - es    me      in   vain,   And  I       am   owned  a   child.
+verse      My   Lord,   my   Life,  my    Way,    my   End,    Ac - cept    the  praise I   bring.
+verse      But  when    I    see    Thee  as      Thou are,    I'll praise  Thee as     I   ought.
+verse      And  may     the  mu  -  sic   of      Thy  Name    Re - fresh   my   soul   in  death!

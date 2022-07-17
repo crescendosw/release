@@ -1,0 +1,35 @@
+title      Glorious Things of Thee Are Spoken
+hymnal     Cantus Christi
+page       304
+author     John Newton, 1779
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Glorious-Things-of-Thee-Are-Spoken.pdf
+see_also   Cantus Christi 2020: 484
+tempo      111
+
+import     tunes/AUSTRIAN HYMN
+
+status     header  tune  double  checked  lyrics
+
+verse      Glo - rious things  of  thee  are  spo - ken,   Zi   -   on,   cit -  y    of     our  God;
+verse      See   the   streams of  liv - ing  wa -  ters,  Spring - ing   from   e -  ter -  nal  love,
+verse      Round each  hab  -  i - ta -  tion hov - 'ring, See      the   cloud  and  fire   ap - pear
+verse      Blest in -  hab  -  i - tants of   Zi -  on,    Washed   in    the    Re - deem - er's blood!
+verse      Sav - ior,  if      of  Zi -  on's cit - y      I,       thro' grace, a    mem -  ber  am,
+
+verse      He   whose word  can -  not   be   bro  -  ken    Formed thee for   His own     a -  bode;
+verse      Well sup - ply   thy    sons  and  daugh - ters,  And    all  fear  of  want    re - move;
+verse      For  a     glo - ry     and   a    cov  -  'ring, Show - ing  that  the Lord    is   near;
+verse      Je - sus,  Whom  their  souls re - ly      on,    Makes  them kings and priests to   God.
+verse      Let  the   world de  -  ride  or   pit  -  y,     I      will glo - ry  in      Thy  Name;
+
+verse      On    the  Rock  of    A   -   ges    found - ed,   What  can shake   thy   sure   re   -  pose?
+verse      Who   can  faint while such    a      riv  -  er    Ev -  er  flows   their thirst to'as - suage?
+verse      Thus  de - riv - ing   from    their  ban  -  ner   Light by  night   and   shade  by      day,
+verse      'Tis  His  love  His   peo  -  ple    rais -  es    O  -  ver self    to    reign  as      kings,
+verse      Fad - ing  is    the   world - ling's plea -  sure, All   his boast - ed    pomp   and     show;
+
+verse      With   sal - va   -   tion's walls  sur - round - ed,  Thou  may'st smile at      all    thy    foes.
+verse      Grace, which like     the    Lord,  the   Giv  -  er,  Nev - er     fails from    age    to     age.
+verse      Safe   they  feed     up  -  on     the   man  -  na   Which He     gives them    when   they   pray.
+verse      And    as    priests, His    sol -  emn   prais - es   Each  for    a     thank - of  -  fering brings.
+verse      Sol -  id    joys     and    last - ing   trea -  sure None  but    Zi -  on's    chil - dren   know.

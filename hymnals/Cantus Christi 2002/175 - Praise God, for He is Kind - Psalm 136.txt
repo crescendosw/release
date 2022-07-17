@@ -1,0 +1,47 @@
+title      Praise God, for He is Kind
+hymnal     Cantus Christi
+page       175
+author     Scottish Psalter, 1615
+music      https://www.christkirk.com/wp-content/uploads/2019/08/praise-god-for-he-is-kind-ps-136-1-8.pdf
+see_also   Cantus Christi 2020: 272
+
+tune       CROFT'S 136TH
+metre      6 6. 6 6. 8 8
+composer   William Croft, 1678-1727
+key        C
+rhythm     0 : 4
+tempo      145
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 | c  b c g | a/2 g/2 | e/8 f/8 g e d-/8 c-/8 | c-/2 e/2
+alto       e/2 | g  f g e | f/2 d/2 | c       c c b/8  c/8  | c/2  c/2
+tenor      c/2 | e+ d c c | c/2 b/2 | c       c g f         | e/2  g/2
+bass       c/2 | c  d e c | f/2 g/2 | a+      e g g-        | c/2  c/2
+
+soprano    f# d-      g a        | b/2  d/2  | b  g a f# | g/2 b/2
+alto       a  a       d e/8 f#/8 | g/2  f#/2 | f# g e d  | b/2 d/2
+tenor      d  f#      g c        | d/2  b/2  | b  b c a  | g/2 g/2
+bass       d  d/8 c/8 b a        | g-/2 b/2  | d  e c d  | g/2 g/2
+
+soprano    c g a/2 c/2 | b a       g#/2 g#/2 | a b  c/2 g/2 | e d-/8 c-/8 c-/2(2)
+alto       c e f/2 g/2 | f c/8 d/8 e/2  e/2  | e d  c/2 c/2 | c b         c/2(2)
+tenor      g c c/2 c/2 | d a       b/2  b/2  | a g# a/2 g/2 | g f         e/2(2)
+bass       e c f/2 e/2 | d f       e/2  d/2  | c b  a/2 e/2 | g g-        c/2(2)
+
+verse      Praise God, for  He    is     kind:   His   mer - cy   lasts for  aye.
+verse      The    Lord of   lords praise ye,     Whose mer - cies still en - dure.
+verse      Which  God  om - ni -  po  -  tent,   By    might and  wis - dom  high,
+verse      To     Him  who  did   out -  stretch This  earth so   great and  wide,
+
+verse      Give  thanks with heart and   mind  To    God    of gods al -  way.
+verse      Great won -  ders on -  ly    He    Doth  work   by His  great pow'r.
+verse      The   Heav'n and  fir - ma -  ment  Did   frame, as we   may   see.
+verse      A  -  bove   the  wa -  ters' reach Mak - ing    it to   a  -  bide.
+
+verse      For cer - tain - ly His mer - cies dure, Most firm and sure e - ter - nal - ly.

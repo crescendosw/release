@@ -1,0 +1,69 @@
+title      Praise to the Lord, the Almighty
+hymnal     Cantus Christi
+page       322
+author     Joachim Neander, 1680
+translator Catherine Winkworth, 1863; alt.
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Praise-to-the-Lord-the-Almighty.pdf
+see_also   Cantus Christi 2020: 301
+
+tune       LOBE DE HEREN
+metre      14 14. 4 7 8
+composer   Stralsund, "Ernewerten Gesangbuch", 1665
+key        G
+rhythm     3 : 4
+tempo      129
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g g d | b. a/8 g | f       e d- | e f g
+alto       d e d | d. f/8 e | d       c b  | c c b
+tenor      b b a | d. c/8 b | b/8 a/8 g g  | g a g
+bass       g e f | g. d/8 e | b       c g- | c a e
+
+soprano    a/2.      | g/2.  | g g d | b. a/8 g | f       e d-
+alto       e - d - c | b/2.  | d e d | d. f/8 e | d       c b
+tenor      g - f/2   | g/2.  | b b a | d. c/8 b | b/8 a/8 g g
+bass       c - d/2   | g-/2. | g e f | g. d/8 e | b       c g-
+
+soprano    e f g | a/2.      | g/2.  | d d  d | e+/2. | b c d
+alto       c c b | e - d - c | b/2.  | g a+ g | g/2.  | g g a+
+tenor      g a g | g - f/2   | g/2.  | b a  b | c/2.  | d c a
+bass       c a e | c - d/2   | g-/2. | g f  g | c/2.  | g e f
+
+soprano    d c       b        | a/2. | d- e f | g a b  | a/2.                    | g/2.
+alto       g e/8 f/8 g        | f/2. | d  c c | b e d# | e/2             d/8 c/8 | b/2.
+tenor      b d       d        | d/2. | d  g a | g e f  | e - a/8 - g/8 - f       | g/2.
+bass       g a+      b+/8 g/8 | d/2. | b  c a | e c b  | c/2 - d                 | g-/2.
+
+verse      Praise to the Lord, the  Al - might - y,       the King  of      cre -
+verse      Praise to the Lord, Who  o'er all     things   so  won - drous - ly
+verse      Praise to the Lord, Who  doth pros -  per      thy work  and     de -
+verse      Praise to the Lord, Who  with mar  -  vel   -  ous wis - dom     hath
+verse      Praise to the Lord, Who, when dark -  ness     of  sin   is      a -
+verse      Praise to the Lord, O    let  all     that     is  in    me      a -
+
+verse      a   -   tion!  O      my   soul, praise  Him, for     He     is    thy
+verse      reign - eth;   Shel - ters thee  un   -  der  His     wings, yea,  so
+verse      fend    thee;  Sure - ly   His   good -  ness and     mer  - cy    here
+verse      made    thee,  Decked thee with  health, and  with    lov -  ing   hand
+verse      bound - ing,   Who,   when the   god  -  less do      tri  - umph, all
+verse      dore    Him!   All    that hath  life    and  breath, come   now   with
+
+verse      health  and sal - va   -  tion!  All    ye   who hear;  now    to   His
+verse      gent  - ly  sus - tain -  eth!   Hast   thou not seen   How    thy  de -
+verse      dai  -  ly  at -  tend    thee.  Pon -  der  a - new    What   the  Al -
+verse      guid  - ed  and   stayed  thee.  How    oft  in  grief  Hath   not  He
+verse      vir  -  tue con - found - ing,   Shed - deth His light, Chas - eth  the
+verse      prais - es  be -  fore    Him.   Let    the  A - men    Sound  from His
+
+verse      tem  -  ple  draw near,  Join     me   in  glad  ad - o   -  ra   -  tion.
+verse      sires   e'er have been   Grant -  ed   in  what  He   or  -  dain -  eth?
+verse      might - y    can  do,    If       with His love  He   be  -  friend  thee!
+verse      brought thee re - lief,  Spread - ing  His wings to   o'er - shade   thee!
+verse      hor  -  rors of   night, Saints   with His mer - cy   sur -  round - ing.
+verse      peo  -  ple  a -  gain,  Glad  -  ly   for aye   we   a   -  dore    Him.

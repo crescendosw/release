@@ -1,0 +1,60 @@
+title      Love Divine, All Loves Excelling
+hymnal     Cantus Christi
+page       313
+author     Charles Wesley, 1747
+music      https://www.christkirk.com/wp-content/uploads/2016/06/Love-Divine-All-Loves-Excelling.pdf
+see_also   Cantus Christi 2020: 378
+
+tune       BEECHER
+metre      8 7. 8 7. D.
+composer   John Zundel, 1870
+key        Bb
+rhythm     4 : 4
+tempo      140
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    f f g       f | d c/8 d/8 c b | a g b g | f e/8 f/8 d-/2
+alto       d d e       d | f e/8 f/8 e d | f e g e | d c       b/2
+tenor      b b g/8 a/8 b | b a       a b | b b b b | b a       b/2
+bass       b b b       b | b f       f b | e e e e | f f-      b/2
+
+soprano    f f g       f | d c/8 d/8 c  b | g e+ d b | a g/8 a/8 b/2
+alto       d d e       d | f e/8 f/8 e  d | e g  f f | e e       d/2
+tenor      b b g/8 a/8 b | b a       a  b | b b  b d | c f       f/2
+bass       b b b       b | b f       f# g | e e  f f | f f-      b/2
+
+soprano    b  b b a  | g a/8 g/8 f# d- | d d e+ d | c c/8 d/8 c/2
+alto       d  g g f# | g d       d  d  | d f g  f | f en      f - eb
+tenor      g  d d c  | b c/8 b/8 a  d- | b b b  b | a b       a/2
+bass       g- b d d  | d d       d  d  | b b b+ b | c c       f-/2
+
+soprano    f f g       f | d c/8 d/8 c  b | b e+ d b | a g/8 a/8 b/2
+alto       d d e       d | f e/8 f/8 e  d | e g  f f | e e       d/2
+tenor      b b g/8 a/8 b | b a       a  b | b b  b d | c f       f/2
+bass       b b b       b | b f       f# g | e e  f f | f f-      b/2
+
+verse      Love     di - vine,   all loves ex -  cel -  ling  Joy  of  heav'n to   earth  come down:
+verse      Breathe, O    breathe Thy lov - ing   Spir - it    In - to  ev  -  'ry  trou - bled breast;
+verse      Come,    Al - might - y   to    de -  liv -  er,   Let  us  all    Thy  life   re - ceive;
+verse      Fin   -  ish, then,   Thy new   cre - a   -  tion; Pure and spot - less let    us   be:
+
+verse      Fix   in    us  Thy  hum - ble   dwell - ing, All   Thy    faith - ful  mer -  cies crown:
+verse      Let   us    all in   Thee  in -  her  -  it,  Let   us     find    the  prom - ised rest:
+verse      Sud - den - ly  re - turn, and   nev  -  er,  Nev - er  -  more    Thy  tem -  ples leave.
+verse      Let   us    see Thy  great sal - va   -  tion Per - fect - ly      re - stored in   Thee;
+
+verse      Je   -  sus, Thou  art all  com - pas  -  sion, Pure, un - bound - ed  love  Thou art;
+verse      Take    a -  way   the love of    sin  -  ning; Al -  pha  and     O - me -  ga   be;
+verse      Thee    we   would be  al - ways  bless - ing,  Serve Thee as      Thy hosts a -  bove,
+verse      Changed from glo - ry  in - to    glo  -  ry,   Till  in   heav'n  we  take  our  place,
+
+verse      Vis - it  us     with Thy    sal - va  -  tion, En -  ter ev  -  'ry  trem - bling heart.
+verse      End   of  faith, as   its    Be  - gin -  ning, Set   our hearts at   lib -  er -  ty.
+verse      Pray  and praise Thee with - out   ceas - ing,  Glo - ry  in     Thy  per -  fect  love.
+verse      'Til  we  cast   our  crowns be -  fore   Thee, Lost  in  won -  der, love,  and   praise.
