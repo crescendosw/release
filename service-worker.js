@@ -1,4 +1,4 @@
-const version = '31.0';
+const version = '32.0';
 
 console.log('service-worker.js');
 
